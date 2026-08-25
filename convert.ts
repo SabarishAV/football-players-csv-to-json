@@ -19,11 +19,18 @@ const records = parse(csv, {
   relax_column_count: true,
 });
 
+const cleanedRecords = records.map((player: any) => ({
+  ...player,
+  playerName: player.playerName
+    ?.replace(/\s*\(\d+\)\s*$/, '')
+    .trim(),
+}));
+
 fs.writeFileSync(
-  './players.json',
-  JSON.stringify(records, null, 2),
+  './players3.json',
+  JSON.stringify(cleanedRecords, null, 2),
   'utf-8',
 );
 
-console.log(`Converted ${records.length} players`);
+console.log(`Converted ${cleanedRecords.length} players`);
 console.log('Created: players.json');
