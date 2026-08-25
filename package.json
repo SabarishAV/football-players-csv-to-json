@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "tsx convert.ts"
+    "dev": "tsx convert.ts",
+    "fetch": "tsx fetch.ts"
   },
   "keywords": [],
   "author": "",
