@@ -1,5 +1,6 @@
 import fs from 'fs';
 import { parse } from 'csv-parse/sync';
+import { randomUUID } from 'node:crypto';
 import countries from 'i18n-iso-countries';
 import en from 'i18n-iso-countries/langs/en.json';
 
@@ -31,6 +32,7 @@ const cleanedRecords = records.map((club: any) => {
     : undefined;
 
   return {
+    id: randomUUID(),
     ...club,
 
     // Remove "(123)", "(12345)", etc. from the end
