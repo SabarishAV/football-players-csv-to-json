@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "tsx convert.ts",
-    "fetch": "tsx fetch.ts"
+    "fetch": "tsx fetch.ts",
+    "clubs": "tsx clubs.ts"
   },
   "keywords": [],
   "author": "",
