@@ -1,5 +1,9 @@
 import fs from 'fs';
 import { parse } from 'csv-parse/sync';
+import countries from 'i18n-iso-countries';
+import en from 'i18n-iso-countries/langs/en.json';
+
+countries.registerLocale(en);
 
 function toCamelCase(str: string): string {
   return str
@@ -19,10 +23,29 @@ const records = parse(csv, {
   relax_column_count: true,
 });
 
+const cleanedRecords = records.map((club: any) => {
+  const countryName = club.countryName?.trim();
+
+  const countryCode = countryName
+    ? countries.getAlpha2Code(countryName, 'en')
+    : undefined;
+
+  return {
+    ...club,
+
+    // Remove "(123)", "(12345)", etc. from the end
+    clubName: club.clubName
+      ?.replace(/\s*\(\d+\)\s*$/, '')
+      .trim(),
+
+    countryCode: countryCode ?? null,
+  };
+});
+
 // Remove duplicate clubs based on clubId
 const uniqueClubs = Array.from(
   new Map(
-    records.map((club: any) => [
+    cleanedRecords.map((club: any) => [
       club.clubId,
       club,
     ]),
