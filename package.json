@@ -8,7 +8,8 @@
     "dev": "tsx convert.ts",
     "fetch": "tsx fetch.ts",
     "clubs": "tsx clubs.ts",
-    "positions": "tsx unique-positions.ts"
+    "positions": "tsx unique-positions.ts",
+    "positions:code": "tsx add-position-code.ts"
   },
   "keywords": [],
   "author": "",
