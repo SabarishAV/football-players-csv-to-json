@@ -1,0 +1,27 @@
+{
+  "uniquePositions": [
+    "Attack",
+    "Attack - Centre-Forward",
+    "Attack - Left Winger",
+    "Attack - Right Winger",
+    "Attack - Second Striker",
+    "Defender",
+    "Defender - Centre-Back",
+    "Defender - Left-Back",
+    "Defender - Right-Back",
+    "Defender - Sweeper",
+    "Goalkeeper",
+    "Midfield",
+    "Midfield - Attacking Midfield",
+    "Midfield - Central Midfield",
+    "Midfield - Defensive Midfield",
+    "Midfield - Left Midfield",
+    "Midfield - Right Midfield"
+  ],
+  "uniqueMainPositions": [
+    "Attack",
+    "Defender",
+    "Goalkeeper",
+    "Midfield"
+  ]
+}
