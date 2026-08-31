@@ -24,7 +24,8 @@
  * Usage (run from the project root, no args needed):
  *   npx tsx highlightly/merge-clubs.ts
  */
-import { randomUUID } from 'node:crypto';
+
+import { randomUUID } from "node:crypto";
 
 interface Team {
   id: number;
@@ -93,6 +94,31 @@ async function main() {
     nameIndex.set(key, list);
   });
 
+  // Track every clubSlug already in use — both from clubs.json and from new
+  // records we're about to create — so no two output records ever end up
+  // with the same slug. Multiple clubs can share a plain name (e.g. many
+  // countries have a "Police FC"), so on collision we disambiguate using
+  // the highlightly team id, which is always unique.
+  const usedSlugs = new Set<string>();
+  for (const club of oldClubs) {
+    if (club.clubSlug) usedSlugs.add(club.clubSlug);
+  }
+
+  function uniqueSlugFor(name: string, highlightlyId: number): string {
+    const base = slugify(name);
+    if (!usedSlugs.has(base)) {
+      usedSlugs.add(base);
+      return base;
+    }
+    let candidate = `${base}-${highlightlyId}`;
+    let n = 2;
+    while (usedSlugs.has(candidate)) {
+      candidate = `${base}-${highlightlyId}-${n++}`;
+    }
+    usedSlugs.add(candidate);
+    return candidate;
+  }
+
   const newRecords: ClubRecord[] = [];
   let matchedCount = 0;
   let newCount = 0;
@@ -114,7 +140,7 @@ async function main() {
       newRecords.push({
         id: randomUUID(),
         clubId: "",
-        clubSlug: slugify(team.name),
+        clubSlug: uniqueSlugFor(team.name, team.id),
         clubName: team.name,
         logoUrl: team.logo,
         countryName: "",
@@ -143,6 +169,7 @@ async function main() {
   console.log(`\nMatched: ${matchedCount} clubs (existing records augmented)`);
   console.log(`New: ${newCount} clubs (appended at the bottom)`);
   console.log(`Total records in output: ${merged.length}`);
+  console.log(`Unique slugs: ${usedSlugs.size}`);
   console.log(`Saved to ${OUT_FILE}`);
 }
 
