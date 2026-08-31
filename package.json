@@ -9,7 +9,8 @@
     "fetch": "tsx fetch.ts",
     "clubs": "tsx clubs.ts",
     "positions": "tsx unique-positions.ts",
-    "positions:code": "tsx add-position-code.ts"
+    "positions:code": "tsx add-position-code.ts",
+    "clubs:h": "tsx ./highlightly/get-clubs.ts"
   },
   "keywords": [],
   "author": "",
@@ -17,6 +18,7 @@
   "packageManager": "pnpm@10.21.0",
   "dependencies": {
     "csv-parse": "^7.0.2",
+    "dotenv": "^17.4.2",
     "fs": "0.0.1-security",
     "i18n-iso-countries": "^7.14.0"
   },

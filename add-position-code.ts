@@ -1,31 +1,3 @@
-/**
- * add-position-code.ts
- *
- * Reads football_players.json (produced by download-players.ts), and adds a
- * new field "mainPositionCode" to every player, derived from the existing
- * "mainPosition" field. The value is always exactly one of:
- *   "GOALKEEPER" | "DEFENDER" | "MIDFIELDER" | "FORWARD"
- *
- * Mapping (Transfermarkt-style mainPosition -> code):
- *   Goalkeeper -> GOALKEEPER
- *   Defender   -> DEFENDER
- *   Midfield   -> MIDFIELDER
- *   Attack     -> FORWARD
- *
- * The lookup is case-insensitive and trims whitespace, and also matches on
- * a "starts with" basis (e.g. "Midfield", "Midfielder" both resolve to
- * MIDFIELDER) to be resilient to minor variations in the source data.
- *
- * Overwrites football_players.json in place with the updated records.
- * Any player whose mainPosition doesn't match a known category is logged to
- * unmapped-positions.log (and, as a safe fallback, is NOT given a
- * mainPositionCode of one of the 4 values arbitrarily — it's flagged for
- * manual review instead so the "exactly one of four values" guarantee isn't
- * silently violated).
- *
- * Run with: node --experimental-strip-types add-position-code.ts
- */
-
 import { readFile, writeFile } from "fs/promises";
 
 const INPUT_FILE = "football_players.json";
