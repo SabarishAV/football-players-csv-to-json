@@ -10,7 +10,8 @@
     "clubs": "tsx clubs.ts",
     "positions": "tsx unique-positions.ts",
     "positions:code": "tsx add-position-code.ts",
-    "clubs:h": "tsx ./highlightly/get-clubs.ts"
+    "clubs:h": "tsx ./highlightly/get-clubs.ts",
+    "clubs:merge:h": "tsx ./highlightly/merge-clubs.ts"
   },
   "keywords": [],
   "author": "",
