@@ -13,7 +13,8 @@
     "clubs:h": "tsx ./highlightly/get-clubs.ts",
     "clubs:merge:h": "tsx ./highlightly/merge-clubs.ts",
     "market:val:json": "tsx ./market-value/csv-to-json.ts",
-    "market:latest": "tsx ./market-value/latest-value.ts"
+    "market:latest": "tsx ./market-value/latest-value.ts",
+    "players:v2": "tsx football-players-v2.ts"
   },
   "keywords": [],
   "author": "",
