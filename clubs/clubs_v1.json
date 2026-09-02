@@ -13,7 +13,9 @@
     "clubDivision": "LaLiga",
     "sourceUrl": "https://www.transfermarkt.com/fc-valencia/startseite/verein/1049/saison_id/2023",
     "lastModifiedAt": "2025-09-13 09:14:08",
-    "countryCode": "ES"
+    "countryCode": "ES",
+    "externalRef": "453516",
+    "externalSrc": "highlightly"
   },
   {
     "id": "f0a0de4a-7d1d-4706-b067-01567c6e0894",
@@ -29,7 +31,9 @@
     "clubDivision": "LaLiga",
     "sourceUrl": "https://www.transfermarkt.com/fc-villarreal/startseite/verein/1050/saison_id/2014",
     "lastModifiedAt": "2025-09-13 09:14:06",
-    "countryCode": "ES"
+    "countryCode": "ES",
+    "externalRef": "454367",
+    "externalSrc": "highlightly"
   },
   {
     "id": "fb2d9055-5684-422d-b493-eaa93cbe3bb2",
@@ -45,7 +49,9 @@
     "clubDivision": "Premier League",
     "sourceUrl": "https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2004",
     "lastModifiedAt": "2025-09-13 09:22:44",
-    "countryCode": null
+    "countryCode": "GB",
+    "externalRef": "36526",
+    "externalSrc": "highlightly"
   },
   {
     "id": "6a20bca1-2578-4c7e-a8bc-9864a0a33724",
@@ -61,7 +67,10 @@
     "clubDivision": "LaLiga",
     "sourceUrl": "https://www.transfermarkt.com/deportivo-alaves/startseite/verein/1108/saison_id/2024",
     "lastModifiedAt": "2025-09-13 09:14:07",
-    "countryCode": "ES"
+    "countryCode": "ES",
+    "externalRef": "14610752",
+    "externalSrc": "highlightly",
+    "comment": "Not sure if the external reference is correct"
   },
   {
     "id": "295bc6d5-dd14-4cb2-a1f8-b15d0da0cfc2",
@@ -77,7 +86,10 @@
     "clubDivision": "Premier League",
     "sourceUrl": "https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2000",
     "lastModifiedAt": "2025-09-13 10:15:03",
-    "countryCode": null
+    "countryCode": "GB",
+    "externalRef": "38228",
+    "externalSrc": "highlightly",
+    "comment": "Not sure if the external reference is correct"
   },
   {
     "id": "a8762003-3b2b-492b-884d-4a257f5989bd",
@@ -93,7 +105,9 @@
     "clubDivision": "Premier League",
     "sourceUrl": "https://www.transfermarkt.com/fc-brentford/startseite/verein/1148/saison_id/2003",
     "lastModifiedAt": "2025-09-13 10:19:12",
-    "countryCode": null
+    "countryCode": "GB",
+    "externalRef": "47589",
+    "externalSrc": "highlightly"
   },
   {
     "id": "aec28c90-29ea-4c36-8372-9673a8e3065f",
@@ -109,7 +123,10 @@
     "clubDivision": "LaLiga",
     "sourceUrl": "https://www.transfermarkt.com/fc-girona/startseite/verein/12321/saison_id/2018",
     "lastModifiedAt": "2025-09-13 09:14:07",
-    "countryCode": "ES"
+    "countryCode": "ES",
+    "externalRef": "466281",
+    "externalSrc": "highlightly",
+    "comment": "Not sure if the external reference is correct"
   },
   {
     "id": "69eb55de-c5ea-4322-9d2a-7e8c77a52e45",
@@ -125,7 +142,9 @@
     "clubDivision": "Premier League",
     "sourceUrl": "https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2002",
     "lastModifiedAt": "2025-09-13 10:16:57",
-    "countryCode": null
+    "countryCode": "GB",
+    "externalRef": "44185",
+    "externalSrc": "highlightly"
   },
   {
     "id": "05dc5ffc-5acf-4f14-bc1b-cb0258651b65",
@@ -141,7 +160,10 @@
     "clubDivision": "LaLiga",
     "sourceUrl": "https://www.transfermarkt.com/atletico-madrid/startseite/verein/13/saison_id/2005",
     "lastModifiedAt": "2025-09-13 09:14:07",
-    "countryCode": "ES"
+    "countryCode": "ES",
+    "externalRef": "451814",
+    "externalSrc": "highlightly",
+    "comment": "Not sure if the external reference is correct"
   },
   {
     "id": "d2deef1a-7d2e-436e-a460-60f1085a8d50",
@@ -157,7 +179,9 @@
     "clubDivision": "LaLiga",
     "sourceUrl": "https://www.transfermarkt.com/fc-barcelona/startseite/verein/131/saison_id/2010",
     "lastModifiedAt": "2025-09-13 09:16:51",
-    "countryCode": "ES"
+    "countryCode": "ES",
+    "externalRef": "450963",
+    "externalSrc": "highlightly"
   },
   {
     "id": "bf9cb3b9-b84f-4156-b758-2e88dfe38130",
@@ -173,7 +197,9 @@
     "clubDivision": "Premier League",
     "sourceUrl": "https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2013",
     "lastModifiedAt": "2025-09-13 09:22:43",
-    "countryCode": null
+    "countryCode": "GB",
+    "externalRef": "40781",
+    "externalSrc": "highlightly"
   },
   {
     "id": "ff225d91-5e5c-42b2-b584-451da4a17a19",
@@ -189,7 +215,9 @@
     "clubDivision": "LaLiga",
     "sourceUrl": "https://www.transfermarkt.com/real-betis-sevilla/startseite/verein/150/saison_id/2005",
     "lastModifiedAt": "2025-09-13 09:14:07",
-    "countryCode": "ES"
+    "countryCode": "ES",
+    "externalRef": "462877",
+    "externalSrc": "highlightly"
   },
   {
     "id": "e2cb44ca-3945-4ebf-ae97-f7b51a65461a",
@@ -205,7 +233,9 @@
     "clubDivision": "LaLiga",
     "sourceUrl": "https://www.transfermarkt.com/fc-elche/startseite/verein/1531/saison_id/2021",
     "lastModifiedAt": "2025-09-13 09:14:10",
-    "countryCode": "ES"
+    "countryCode": "ES",
+    "externalRef": "679031",
+    "externalSrc": "highlightly"
   },
   {
     "id": "b4d9c308-036c-4b50-8a87-bcb98b36fb43",
@@ -221,7 +251,9 @@
     "clubDivision": "LaLiga",
     "sourceUrl": "https://www.transfermarkt.com/rcd-mallorca/startseite/verein/237/saison_id/2017",
     "lastModifiedAt": "2025-09-13 09:15:01",
-    "countryCode": "ES"
+    "countryCode": "ES",
+    "externalRef": "679882",
+    "externalSrc": "highlightly"
   },
   {
     "id": "48eeb3b7-25ea-4a25-8660-f4879cdcc0b6",
@@ -237,7 +269,9 @@
     "clubDivision": "LaLiga",
     "sourceUrl": "https://www.transfermarkt.com/real-oviedo/startseite/verein/2497/saison_id/2002",
     "lastModifiedAt": "2025-09-13 09:14:08",
-    "countryCode": "ES"
+    "countryCode": "ES",
+    "externalRef": "611802",
+    "externalSrc": "highlightly"
   },
   {
     "id": "25c5cdf6-9699-445e-9c94-269ac7f8fa0b",
@@ -253,7 +287,9 @@
     "clubDivision": "Premier League",
     "sourceUrl": "https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2018",
     "lastModifiedAt": "2025-09-13 09:22:45",
-    "countryCode": null
+    "countryCode": "GB",
+    "externalRef": "43334",
+    "externalSrc": "highlightly"
   },
   {
     "id": "5930346f-27c7-48da-9f86-7bebe18e942e",
@@ -269,7 +305,9 @@
     "clubDivision": "Premier League",
     "sourceUrl": "https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2024",
     "lastModifiedAt": "2025-09-13 09:22:45",
-    "countryCode": null
+    "countryCode": "GB",
+    "externalRef": "635630",
+    "externalSrc": "highlightly"
   },
   {
     "id": "629e7f3a-0d0c-44cd-9e41-8f3b497157bd",
@@ -285,7 +323,9 @@
     "clubDivision": "Premier League",
     "sourceUrl": "https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2017",
     "lastModifiedAt": "2025-09-13 09:22:46",
-    "countryCode": null
+    "countryCode": "GB",
+    "externalRef": "39079",
+    "externalSrc": "highlightly"
   },
   {
     "id": "bf588803-78f1-48b7-ae18-88c43796795a",
@@ -301,7 +341,9 @@
     "clubDivision": "Premier League",
     "sourceUrl": "https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2004",
     "lastModifiedAt": "2025-09-13 09:22:45",
-    "countryCode": null
+    "countryCode": "GB",
+    "externalRef": "34824",
+    "externalSrc": "highlightly"
   },
   {
     "id": "c7440f44-d745-4012-bd68-1b2a30f6c65f",
@@ -317,7 +359,9 @@
     "clubDivision": "LaLiga",
     "sourceUrl": "https://www.transfermarkt.com/ca-osasuna/startseite/verein/331/saison_id/2024",
     "lastModifiedAt": "2025-09-13 09:14:09",
-    "countryCode": "ES"
+    "countryCode": "ES",
+    "externalRef": "619461",
+    "externalSrc": "highlightly"
   },
   {
     "id": "87a3d160-2aa2-4f2b-8fe7-5a568cb4b52a",
@@ -333,7 +377,9 @@
     "clubDivision": "LaLiga",
     "sourceUrl": "https://www.transfermarkt.com/ud-levante/startseite/verein/3368/saison_id/2000",
     "lastModifiedAt": "2025-09-13 09:14:08",
-    "countryCode": "ES"
+    "countryCode": "ES",
+    "externalRef": "459473",
+    "externalSrc": "highlightly"
   },
   {
     "id": "f4479f31-1e45-4869-87e5-80794bf933ba",
@@ -349,7 +395,9 @@
     "clubDivision": "LaLiga",
     "sourceUrl": "https://www.transfermarkt.com/rayo-vallecano/startseite/verein/367/saison_id/2024",
     "lastModifiedAt": "2025-09-13 09:14:08",
-    "countryCode": "ES"
+    "countryCode": "ES",
+    "externalRef": "620312",
+    "externalSrc": "highlightly"
   },
   {
     "id": "c19c9cb9-6102-4786-9d53-e6b2d12b530b",
@@ -365,7 +413,9 @@
     "clubDivision": "LaLiga",
     "sourceUrl": "https://www.transfermarkt.com/fc-sevilla/startseite/verein/368/saison_id/2015",
     "lastModifiedAt": "2025-09-13 09:14:08",
-    "countryCode": "ES"
+    "countryCode": "ES",
+    "externalRef": "456920",
+    "externalSrc": "highlightly"
   },
   {
     "id": "eac824e6-821e-4047-a8f6-7a39c956def8",
@@ -381,7 +431,9 @@
     "clubDivision": "LaLiga",
     "sourceUrl": "https://www.transfermarkt.com/fc-getafe/startseite/verein/3709/saison_id/2004",
     "lastModifiedAt": "2025-09-13 09:14:08",
-    "countryCode": "ES"
+    "countryCode": "ES",
+    "externalRef": "465430",
+    "externalSrc": "highlightly"
   },
   {
     "id": "0d933c2c-e4fc-44b4-8a84-d104af99569f",
@@ -397,7 +449,9 @@
     "clubDivision": "Premier League",
     "sourceUrl": "https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2022",
     "lastModifiedAt": "2025-09-13 09:22:41",
-    "countryCode": null
+    "countryCode": "GB",
+    "externalRef": "41632",
+    "externalSrc": "highlightly"
   },
   {
     "id": "215fce5d-fa87-4f42-8088-24dfd3bd7ff8",
@@ -413,7 +467,9 @@
     "clubDivision": "Premier League",
     "sourceUrl": "https://www.transfermarkt.com/leeds-united/startseite/verein/399/saison_id/2007",
     "lastModifiedAt": "2025-09-13 10:26:31",
-    "countryCode": null
+    "countryCode": "GB",
+    "externalRef": "54397",
+    "externalSrc": "highlightly"
   },
   {
     "id": "2af55f1a-71b0-4bd7-a162-320b850203da",
@@ -429,7 +485,9 @@
     "clubDivision": "Premier League",
     "sourceUrl": "https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2010",
     "lastModifiedAt": "2025-09-13 09:22:46",
-    "countryCode": null
+    "countryCode": "GB",
+    "externalRef": "56950",
+    "externalSrc": "highlightly"
   },
   {
     "id": "38692dd5-e26c-4328-959e-964b1cc3eca5",
@@ -445,7 +503,9 @@
     "clubDivision": "LaLiga",
     "sourceUrl": "https://www.transfermarkt.com/real-madrid/startseite/verein/418/saison_id/2009",
     "lastModifiedAt": "2025-09-13 09:08:50",
-    "countryCode": "ES"
+    "countryCode": "ES",
+    "externalRef": "461175",
+    "externalSrc": "highlightly"
   },
   {
     "id": "d161ab5c-adc4-4c2a-9ab9-8c63f15eb753",
@@ -461,7 +521,9 @@
     "clubDivision": "Premier League",
     "sourceUrl": "https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2001",
     "lastModifiedAt": "2025-09-13 10:14:14",
-    "countryCode": null
+    "countryCode": "GB",
+    "externalRef": "33973",
+    "externalSrc": "highlightly"
   },
   {
     "id": "d0c705de-591e-4a7d-853e-1128478ff515",
@@ -477,7 +539,9 @@
     "clubDivision": "LaLiga",
     "sourceUrl": "https://www.transfermarkt.com/athletic-bilbao/startseite/verein/621/saison_id/2007",
     "lastModifiedAt": "2025-09-13 09:15:21",
-    "countryCode": "ES"
+    "countryCode": "ES",
+    "externalRef": "452665",
+    "externalSrc": "highlightly"
   },
   {
     "id": "a1236bf3-8641-438f-98c9-5e5fa2215bad",
@@ -493,7 +557,9 @@
     "clubDivision": "Premier League",
     "sourceUrl": "https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2013",
     "lastModifiedAt": "2025-09-13 09:22:44",
-    "countryCode": null
+    "countryCode": "GB",
+    "externalRef": "42483",
+    "externalSrc": "highlightly"
   },
   {
     "id": "b9e47b39-5511-43a0-8406-ac56e9c42208",
@@ -509,7 +575,9 @@
     "clubDivision": "LaLiga",
     "sourceUrl": "https://www.transfermarkt.com/real-sociedad-san-sebastian/startseite/verein/681/saison_id/2021",
     "lastModifiedAt": "2025-09-13 09:14:15",
-    "countryCode": "ES"
+    "countryCode": "ES",
+    "externalRef": "467132",
+    "externalSrc": "highlightly"
   },
   {
     "id": "a7100409-e8a2-41dc-b98e-97e79d4b857e",
@@ -525,7 +593,9 @@
     "clubDivision": "Premier League",
     "sourceUrl": "https://www.transfermarkt.com/nottingham-forest/startseite/verein/703/saison_id/2003",
     "lastModifiedAt": "2025-09-13 10:28:44",
-    "countryCode": null
+    "countryCode": "GB",
+    "externalRef": "56099",
+    "externalSrc": "highlightly"
   },
   {
     "id": "acbd772a-f663-4369-9f9b-b9c71951a47d",
@@ -541,7 +611,9 @@
     "clubDivision": "LaLiga",
     "sourceUrl": "https://www.transfermarkt.com/espanyol-barcelona/startseite/verein/714/saison_id/2024",
     "lastModifiedAt": "2025-09-13 09:14:08",
-    "countryCode": "ES"
+    "countryCode": "ES",
+    "externalRef": "460324",
+    "externalSrc": "highlightly"
   },
   {
     "id": "d957e18e-598b-48b2-996f-82b891cc55f9",
@@ -557,7 +629,9 @@
     "clubDivision": "Premier League",
     "sourceUrl": "https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2023",
     "lastModifiedAt": "2025-09-13 09:22:46",
-    "countryCode": null
+    "countryCode": "GB",
+    "externalRef": "29718",
+    "externalSrc": "highlightly"
   },
   {
     "id": "fb2ca2cf-0018-449c-b586-543fcf205c6f",
@@ -573,7 +647,9 @@
     "clubDivision": "Premier League",
     "sourceUrl": "https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2009",
     "lastModifiedAt": "2025-09-13 10:14:59",
-    "countryCode": null
+    "countryCode": "GB",
+    "externalRef": "45036",
+    "externalSrc": "highlightly"
   },
   {
     "id": "7540fdb7-8f8d-42f3-90bd-05f350238bf3",
@@ -589,7 +665,9 @@
     "clubDivision": "Premier League",
     "sourceUrl": "https://www.transfermarkt.com/fc-fulham/startseite/verein/931/saison_id/2002",
     "lastModifiedAt": "2025-09-13 09:22:47",
-    "countryCode": null
+    "countryCode": "GB",
+    "externalRef": "31420",
+    "externalSrc": "highlightly"
   },
   {
     "id": "f714a500-52fd-4ec9-8df4-52a82ebaf05f",
@@ -605,7 +683,9 @@
     "clubDivision": "LaLiga",
     "sourceUrl": "https://www.transfermarkt.com/celta-vigo/startseite/verein/940/saison_id/2024",
     "lastModifiedAt": "2025-09-13 09:14:08",
-    "countryCode": "ES"
+    "countryCode": "ES",
+    "externalRef": "458622",
+    "externalSrc": "highlightly"
   },
   {
     "id": "4bb64c08-778f-4375-a1c1-3ebc182b0a19",
@@ -621,7 +701,9 @@
     "clubDivision": "Premier League",
     "sourceUrl": "https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2006",
     "lastModifiedAt": "2025-09-13 09:22:47",
-    "countryCode": null
+    "countryCode": "GB",
+    "externalRef": "28867",
+    "externalSrc": "highlightly"
   },
   {
     "id": "1b06bde7-1ca1-453f-aadd-c5239d820ecd",
@@ -637,7 +719,9 @@
     "clubDivision": "Premier League",
     "sourceUrl": "https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2012",
     "lastModifiedAt": "2025-09-13 10:17:07",
-    "countryCode": null
+    "countryCode": "GB",
+    "externalRef": "30569",
+    "externalSrc": "highlightly"
   },
   {
     "id": "0832d8ee-5411-41b7-9b9f-80e5b63d9033",
@@ -653,7 +737,9 @@
     "clubDivision": "Super League 1",
     "sourceUrl": "https://www.transfermarkt.com/aek-athen/startseite/verein/2441/saison_id/2016",
     "lastModifiedAt": "2025-09-13 11:24:10",
-    "countryCode": "GR"
+    "countryCode": "GR",
+    "externalRef": "490109",
+    "externalSrc": "highlightly"
   },
   {
     "id": "88a945fe-2fb2-489c-9d54-e55936adc9ba",
@@ -669,7 +755,9 @@
     "clubDivision": "Bundesliga",
     "sourceUrl": "https://www.transfermarkt.com/fc-bayern-munchen/startseite/verein/27/saison_id/2000",
     "lastModifiedAt": "2025-09-13 09:41:54",
-    "countryCode": "DE"
+    "countryCode": "DE",
+    "externalRef": "134391",
+    "externalSrc": "highlightly"
   },
   {
     "id": "be454d86-554b-4a0e-a8eb-f1779d3580de",
@@ -685,7 +773,9 @@
     "clubDivision": "Eliteserien",
     "sourceUrl": "https://www.transfermarkt.com/fk-bodo-glimt/startseite/verein/501/saison_id/2011",
     "lastModifiedAt": "2025-09-13 13:25:34",
-    "countryCode": "NO"
+    "countryCode": "NO",
+    "externalRef": "279061",
+    "externalSrc": "highlightly"
   },
   {
     "id": "3161e5c7-8970-4928-a8ec-fbfcd70fb192",
@@ -701,7 +791,9 @@
     "clubDivision": "Bundesliga",
     "sourceUrl": "https://www.transfermarkt.com/borussia-dortmund/startseite/verein/16/saison_id/2009",
     "lastModifiedAt": "2025-09-13 09:41:54",
-    "countryCode": "DE"
+    "countryCode": "DE",
+    "externalRef": "141199",
+    "externalSrc": "highlightly"
   },
   {
     "id": "bcbdb63c-7ac1-470f-b75d-44aedff5f0d9",
@@ -717,7 +809,9 @@
     "clubDivision": "Jupiler Pro League",
     "sourceUrl": "https://www.transfermarkt.com/fc-brugge/startseite/verein/2282/saison_id/2003",
     "lastModifiedAt": "2025-09-13 10:51:59",
-    "countryCode": "BE"
+    "countryCode": "BE",
+    "externalRef": "485003",
+    "externalSrc": "highlightly"
   },
   {
     "id": "b7ea87a2-bdbe-4b57-b1e1-de7bd05ab366",
@@ -733,7 +827,9 @@
     "clubDivision": "Serie A",
     "sourceUrl": "https://www.transfermarkt.com/como-1907/startseite/verein/1047/saison_id/2017",
     "lastModifiedAt": "2025-09-13 10:20:50",
-    "countryCode": "IT"
+    "countryCode": "IT",
+    "externalRef": "762429",
+    "externalSrc": "highlightly"
   },
   {
     "id": "9043a402-5281-43e3-bff5-da9529d203bc",
@@ -749,7 +845,9 @@
     "clubDivision": "Süper Lig",
     "sourceUrl": "https://www.transfermarkt.com/fenerbahce-istanbul/startseite/verein/36/saison_id/2005",
     "lastModifiedAt": "2025-09-13 09:48:16",
-    "countryCode": "TR"
+    "countryCode": "TR",
+    "externalRef": "520745",
+    "externalSrc": "highlightly"
   },
   {
     "id": "2950312a-a667-469f-9b8c-4f949f12b825",
@@ -765,7 +863,9 @@
     "clubDivision": "Eredivisie",
     "sourceUrl": "https://www.transfermarkt.com/feyenoord-rotterdam/startseite/verein/234/saison_id/2010",
     "lastModifiedAt": "2025-09-13 11:41:51",
-    "countryCode": "NL"
+    "countryCode": "NL",
+    "externalRef": "178643",
+    "externalSrc": "highlightly"
   },
   {
     "id": "553e9d93-dc89-46d4-966a-bf2abb8872e3",
@@ -781,7 +881,9 @@
     "clubDivision": "Süper Lig",
     "sourceUrl": "https://www.transfermarkt.com/galatasaray-istanbul/startseite/verein/141/saison_id/2018",
     "lastModifiedAt": "2025-09-13 09:50:39",
-    "countryCode": "TR"
+    "countryCode": "TR",
+    "externalRef": "549679",
+    "externalSrc": "highlightly"
   },
   {
     "id": "54a397f2-bf56-4771-bc44-372f546a0e26",
@@ -797,7 +899,9 @@
     "clubDivision": "Serie A",
     "sourceUrl": "https://www.transfermarkt.com/inter-mailand/startseite/verein/46/saison_id/2023",
     "lastModifiedAt": "2025-09-13 09:04:10",
-    "countryCode": "IT"
+    "countryCode": "IT",
+    "externalRef": "430539",
+    "externalSrc": "highlightly"
   },
   {
     "id": "270836b6-6d3a-4e6b-b2c0-60ef3340fd99",
@@ -813,7 +917,9 @@
     "clubDivision": "Bundesliga",
     "sourceUrl": "https://www.transfermarkt.com/lask/startseite/verein/413/saison_id/2012",
     "lastModifiedAt": "2025-09-13 11:17:55",
-    "countryCode": "AT"
+    "countryCode": "AT",
+    "externalRef": "873910",
+    "externalSrc": "highlightly"
   },
   {
     "id": "3a79e3cd-9529-45e2-8e87-dc88399d8558",
@@ -829,7 +935,9 @@
     "clubDivision": "Bundesliga",
     "sourceUrl": "https://www.transfermarkt.com/rasenballsport-leipzig/startseite/verein/23826/saison_id/2018",
     "lastModifiedAt": "2025-09-13 09:58:18",
-    "countryCode": "DE"
+    "countryCode": "DE",
+    "externalRef": "148007",
+    "externalSrc": "highlightly"
   },
   {
     "id": "80a13442-420e-436e-8187-a333fd4b7933",
@@ -845,7 +953,9 @@
     "clubDivision": "Ligue 1",
     "sourceUrl": "https://www.transfermarkt.com/rc-lens/startseite/verein/826/saison_id/2020",
     "lastModifiedAt": "2025-09-13 10:22:25",
-    "countryCode": "FR"
+    "countryCode": "FR",
+    "externalRef": "99500",
+    "externalSrc": "highlightly"
   },
   {
     "id": "1a03e1d0-8aef-4898-8bfb-2ffaf76fa7fa",
@@ -861,7 +971,9 @@
     "clubDivision": "Ligue 1",
     "sourceUrl": "https://www.transfermarkt.com/losc-lille/startseite/verein/1082/saison_id/2010",
     "lastModifiedAt": "2025-09-13 10:25:22",
-    "countryCode": "FR"
+    "countryCode": "FR",
+    "externalRef": "68013",
+    "externalSrc": "highlightly"
   },
   {
     "id": "e3110544-5162-4ace-a987-8abcfce36dce",
@@ -877,7 +989,9 @@
     "clubDivision": "Serie A",
     "sourceUrl": "https://www.transfermarkt.com/ssc-neapel/startseite/verein/6195/saison_id/2022",
     "lastModifiedAt": "2025-09-13 09:04:09",
-    "countryCode": "IT"
+    "countryCode": "IT",
+    "externalRef": "419476",
+    "externalSrc": "highlightly"
   },
   {
     "id": "bd065aa6-2f55-4071-8bcb-2fca374cf727",
@@ -893,7 +1007,9 @@
     "clubDivision": "Ligue 1",
     "sourceUrl": "https://www.transfermarkt.com/fc-paris-saint-germain/startseite/verein/583/saison_id/2019",
     "lastModifiedAt": "2025-09-13 10:24:45",
-    "countryCode": "FR"
+    "countryCode": "FR",
+    "externalRef": "73119",
+    "externalSrc": "highlightly"
   },
   {
     "id": "7cfa5f49-9d38-40fb-8030-30332f62eb31",
@@ -909,7 +1025,9 @@
     "clubDivision": "Liga Portugal",
     "sourceUrl": "https://www.transfermarkt.com/fc-porto/startseite/verein/720/saison_id/2011",
     "lastModifiedAt": "2025-09-13 10:05:28",
-    "countryCode": "PT"
+    "countryCode": "PT",
+    "externalRef": "181196",
+    "externalSrc": "highlightly"
   },
   {
     "id": "740c5bc7-cbe5-4192-937f-6975969d9202",
@@ -925,7 +1043,9 @@
     "clubDivision": "Eredivisie",
     "sourceUrl": "https://www.transfermarkt.com/psv-eindhoven/startseite/verein/383/saison_id/2002",
     "lastModifiedAt": "2025-09-13 11:40:21",
-    "countryCode": "NL"
+    "countryCode": "NL",
+    "externalRef": "168431",
+    "externalSrc": "highlightly"
   },
   {
     "id": "1755442d-58d5-4c2f-b3f9-1d6c5e4ac34e",
@@ -941,7 +1061,9 @@
     "clubDivision": "Serie A",
     "sourceUrl": "https://www.transfermarkt.com/as-rom/startseite/verein/12/saison_id/2018",
     "lastModifiedAt": "2025-09-13 09:04:09",
-    "countryCode": "IT"
+    "countryCode": "IT",
+    "externalRef": "423731",
+    "externalSrc": "highlightly"
   },
   {
     "id": "9487458e-a0f3-4cb3-9a12-21eb09353421",
@@ -957,7 +1079,9 @@
     "clubDivision": "Premier Liga",
     "sourceUrl": "https://www.transfermarkt.com/shakhtar-donetsk/startseite/verein/660/saison_id/2011",
     "lastModifiedAt": "2025-09-13 12:56:43",
-    "countryCode": "UA"
+    "countryCode": "UA",
+    "externalRef": "468834",
+    "externalSrc": "highlightly"
   },
   {
     "id": "a7822719-0260-4d2e-9ad2-3e0d466521b8",
@@ -973,7 +1097,9 @@
     "clubDivision": "Chance Liga",
     "sourceUrl": "https://www.transfermarkt.com/sk-slavia-prag/startseite/verein/62/saison_id/2004",
     "lastModifiedAt": "2025-09-13 12:35:19",
-    "countryCode": "CZ"
+    "countryCode": "CZ",
+    "externalRef": "477344",
+    "externalSrc": "highlightly"
   },
   {
     "id": "c5980713-c790-4ac3-a240-2d8e0cfefce0",
@@ -989,7 +1115,9 @@
     "clubDivision": "Niké Liga",
     "sourceUrl": "https://www.transfermarkt.com/slovan-bratislava/startseite/verein/540/saison_id/2002",
     "lastModifiedAt": "2025-09-13 12:32:57",
-    "countryCode": "SK"
+    "countryCode": "SK",
+    "externalRef": "559040",
+    "externalSrc": "highlightly"
   },
   {
     "id": "d9c64bd6-abb4-4a9d-93b1-0dde3d5aab52",
@@ -1005,7 +1133,9 @@
     "clubDivision": "Liga Portugal",
     "sourceUrl": "https://www.transfermarkt.com/sporting-lissabon/startseite/verein/336/saison_id/2009",
     "lastModifiedAt": "2025-09-13 10:04:12",
-    "countryCode": "PT"
+    "countryCode": "PT",
+    "externalRef": "194812",
+    "externalSrc": "highlightly"
   },
   {
     "id": "d704d063-2d23-4d63-93ec-8e526cb913b3",
@@ -1021,7 +1151,9 @@
     "clubDivision": "Bundesliga",
     "sourceUrl": "https://www.transfermarkt.com/vfb-stuttgart/startseite/verein/79/saison_id/2003",
     "lastModifiedAt": "2025-09-13 09:41:54",
-    "countryCode": "DE"
+    "countryCode": "DE",
+    "externalRef": "147156",
+    "externalSrc": "highlightly"
   },
   {
     "id": "bcda17e5-9a64-4b3d-b11d-e03699be96a8",
@@ -1037,6 +1169,8 @@
     "clubDivision": "Eliteserien",
     "sourceUrl": "https://www.transfermarkt.com/viking-stavanger/startseite/verein/239/saison_id/2002",
     "lastModifiedAt": "2025-09-13 13:22:35",
-    "countryCode": "NO"
+    "countryCode": "NO",
+    "externalRef": "646693",
+    "externalSrc": "highlightly"
   }
 ]
