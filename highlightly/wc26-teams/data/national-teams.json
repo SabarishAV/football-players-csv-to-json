@@ -1,0 +1,6236 @@
+[
+  {
+    "id": 1635,
+    "logo": "https://highlightly.net/soccer/images/teams/1635.png",
+    "name": "Belgium",
+    "type": "national"
+  },
+  {
+    "id": 2486,
+    "logo": "https://highlightly.net/soccer/images/teams/2486.png",
+    "name": "France",
+    "type": "national"
+  },
+  {
+    "id": 3337,
+    "logo": "https://highlightly.net/soccer/images/teams/3337.png",
+    "name": "Croatia",
+    "type": "national"
+  },
+  {
+    "id": 4188,
+    "logo": "https://highlightly.net/soccer/images/teams/4188.png",
+    "name": "Russia",
+    "type": "national"
+  },
+  {
+    "id": 5039,
+    "logo": "https://highlightly.net/soccer/images/teams/5039.png",
+    "name": "Sweden",
+    "type": "national"
+  },
+  {
+    "id": 5890,
+    "logo": "https://highlightly.net/soccer/images/teams/5890.png",
+    "name": "Brazil",
+    "type": "national"
+  },
+  {
+    "id": 6741,
+    "logo": "https://highlightly.net/soccer/images/teams/6741.png",
+    "name": "Uruguay",
+    "type": "national"
+  },
+  {
+    "id": 7592,
+    "logo": "https://highlightly.net/soccer/images/teams/7592.png",
+    "name": "Colombia",
+    "type": "national"
+  },
+  {
+    "id": 8443,
+    "logo": "https://highlightly.net/soccer/images/teams/8443.png",
+    "name": "Spain",
+    "type": "national"
+  },
+  {
+    "id": 9294,
+    "logo": "https://highlightly.net/soccer/images/teams/9294.png",
+    "name": "England",
+    "type": "national"
+  },
+  {
+    "id": 10145,
+    "logo": "https://highlightly.net/soccer/images/teams/10145.png",
+    "name": "Panama",
+    "type": "national"
+  },
+  {
+    "id": 10996,
+    "logo": "https://highlightly.net/soccer/images/teams/10996.png",
+    "name": "Japan",
+    "type": "national"
+  },
+  {
+    "id": 11847,
+    "logo": "https://highlightly.net/soccer/images/teams/11847.png",
+    "name": "Senegal",
+    "type": "national"
+  },
+  {
+    "id": 12698,
+    "logo": "https://highlightly.net/soccer/images/teams/12698.png",
+    "name": "Serbia",
+    "type": "national"
+  },
+  {
+    "id": 13549,
+    "logo": "https://highlightly.net/soccer/images/teams/13549.png",
+    "name": "Switzerland",
+    "type": "national"
+  },
+  {
+    "id": 14400,
+    "logo": "https://highlightly.net/soccer/images/teams/14400.png",
+    "name": "Mexico",
+    "type": "national"
+  },
+  {
+    "id": 15251,
+    "logo": "https://highlightly.net/soccer/images/teams/15251.png",
+    "name": "South Korea",
+    "type": "national"
+  },
+  {
+    "id": 16102,
+    "logo": "https://highlightly.net/soccer/images/teams/16102.png",
+    "name": "Iceland",
+    "type": "national"
+  },
+  {
+    "id": 16953,
+    "logo": "https://highlightly.net/soccer/images/teams/16953.png",
+    "name": "Nigeria",
+    "type": "national"
+  },
+  {
+    "id": 17804,
+    "logo": "https://highlightly.net/soccer/images/teams/17804.png",
+    "name": "Australia",
+    "type": "national"
+  },
+  {
+    "id": 18655,
+    "logo": "https://highlightly.net/soccer/images/teams/18655.png",
+    "name": "Denmark",
+    "type": "national"
+  },
+  {
+    "id": 19506,
+    "logo": "https://highlightly.net/soccer/images/teams/19506.png",
+    "name": "Iran",
+    "type": "national"
+  },
+  {
+    "id": 20357,
+    "logo": "https://highlightly.net/soccer/images/teams/20357.png",
+    "name": "Saudi Arabia",
+    "type": "national"
+  },
+  {
+    "id": 21208,
+    "logo": "https://highlightly.net/soccer/images/teams/21208.png",
+    "name": "Poland",
+    "type": "national"
+  },
+  {
+    "id": 22059,
+    "logo": "https://highlightly.net/soccer/images/teams/22059.png",
+    "name": "Germany",
+    "type": "national"
+  },
+  {
+    "id": 22910,
+    "logo": "https://highlightly.net/soccer/images/teams/22910.png",
+    "name": "Argentina",
+    "type": "national"
+  },
+  {
+    "id": 23761,
+    "logo": "https://highlightly.net/soccer/images/teams/23761.png",
+    "name": "Portugal",
+    "type": "national"
+  },
+  {
+    "id": 24612,
+    "logo": "https://highlightly.net/soccer/images/teams/24612.png",
+    "name": "Tunisia",
+    "type": "national"
+  },
+  {
+    "id": 25463,
+    "logo": "https://highlightly.net/soccer/images/teams/25463.png",
+    "name": "Costa Rica",
+    "type": "national"
+  },
+  {
+    "id": 26314,
+    "logo": "https://highlightly.net/soccer/images/teams/26314.png",
+    "name": "Peru",
+    "type": "national"
+  },
+  {
+    "id": 27165,
+    "logo": "https://highlightly.net/soccer/images/teams/27165.png",
+    "name": "Morocco",
+    "type": "national"
+  },
+  {
+    "id": 28016,
+    "logo": "https://highlightly.net/soccer/images/teams/28016.png",
+    "name": "Egypt",
+    "type": "national"
+  },
+  {
+    "id": 653501,
+    "logo": "https://highlightly.net/soccer/images/teams/653501.png",
+    "name": "Wales",
+    "type": "national"
+  },
+  {
+    "id": 654352,
+    "logo": "https://highlightly.net/soccer/images/teams/654352.png",
+    "name": "Italy",
+    "type": "national"
+  },
+  {
+    "id": 655203,
+    "logo": "https://highlightly.net/soccer/images/teams/655203.png",
+    "name": "Hungary",
+    "type": "national"
+  },
+  {
+    "id": 656054,
+    "logo": "https://highlightly.net/soccer/images/teams/656054.png",
+    "name": "Czech Republic",
+    "type": "national"
+  },
+  {
+    "id": 656905,
+    "logo": "https://highlightly.net/soccer/images/teams/656905.png",
+    "name": "Northern Ireland",
+    "type": "national"
+  },
+  {
+    "id": 657756,
+    "logo": "https://highlightly.net/soccer/images/teams/657756.png",
+    "name": "Ukraine",
+    "type": "national"
+  },
+  {
+    "id": 658607,
+    "logo": "https://highlightly.net/soccer/images/teams/658607.png",
+    "name": "Slovakia",
+    "type": "national"
+  },
+  {
+    "id": 659458,
+    "logo": "https://highlightly.net/soccer/images/teams/659458.png",
+    "name": "Romania",
+    "type": "national"
+  },
+  {
+    "id": 660309,
+    "logo": "https://highlightly.net/soccer/images/teams/660309.png",
+    "name": "Austria",
+    "type": "national"
+  },
+  {
+    "id": 661160,
+    "logo": "https://highlightly.net/soccer/images/teams/661160.png",
+    "name": "Republic of Ireland",
+    "type": "national"
+  },
+  {
+    "id": 662011,
+    "logo": "https://highlightly.net/soccer/images/teams/662011.png",
+    "name": "Turkey",
+    "type": "national"
+  },
+  {
+    "id": 662862,
+    "logo": "https://highlightly.net/soccer/images/teams/662862.png",
+    "name": "Albania",
+    "type": "national"
+  },
+  {
+    "id": 928374,
+    "logo": "https://highlightly.net/soccer/images/teams/928374.png",
+    "name": "Norway",
+    "type": "national"
+  },
+  {
+    "id": 929225,
+    "logo": "https://highlightly.net/soccer/images/teams/929225.png",
+    "name": "Slovenia",
+    "type": "national"
+  },
+  {
+    "id": 930076,
+    "logo": "https://highlightly.net/soccer/images/teams/930076.png",
+    "name": "Latvia",
+    "type": "national"
+  },
+  {
+    "id": 930927,
+    "logo": "https://highlightly.net/soccer/images/teams/930927.png",
+    "name": "Gibraltar",
+    "type": "national"
+  },
+  {
+    "id": 931778,
+    "logo": "https://highlightly.net/soccer/images/teams/931778.png",
+    "name": "Armenia",
+    "type": "national"
+  },
+  {
+    "id": 932629,
+    "logo": "https://highlightly.net/soccer/images/teams/932629.png",
+    "name": "Kazakhstan",
+    "type": "national"
+  },
+  {
+    "id": 933480,
+    "logo": "https://highlightly.net/soccer/images/teams/933480.png",
+    "name": "Azerbaijan",
+    "type": "national"
+  },
+  {
+    "id": 934331,
+    "logo": "https://highlightly.net/soccer/images/teams/934331.png",
+    "name": "Lithuania",
+    "type": "national"
+  },
+  {
+    "id": 935182,
+    "logo": "https://highlightly.net/soccer/images/teams/935182.png",
+    "name": "Faroe Islands",
+    "type": "national"
+  },
+  {
+    "id": 936033,
+    "logo": "https://highlightly.net/soccer/images/teams/936033.png",
+    "name": "Finland",
+    "type": "national"
+  },
+  {
+    "id": 936884,
+    "logo": "https://highlightly.net/soccer/images/teams/936884.png",
+    "name": "Belarus",
+    "type": "national"
+  },
+  {
+    "id": 937735,
+    "logo": "https://highlightly.net/soccer/images/teams/937735.png",
+    "name": "Estonia",
+    "type": "national"
+  },
+  {
+    "id": 938586,
+    "logo": "https://highlightly.net/soccer/images/teams/938586.png",
+    "name": "Luxembourg",
+    "type": "national"
+  },
+  {
+    "id": 939437,
+    "logo": "https://highlightly.net/soccer/images/teams/939437.png",
+    "name": "Bulgaria",
+    "type": "national"
+  },
+  {
+    "id": 940288,
+    "logo": "https://highlightly.net/soccer/images/teams/940288.png",
+    "name": "Georgia",
+    "type": "national"
+  },
+  {
+    "id": 941139,
+    "logo": "https://highlightly.net/soccer/images/teams/941139.png",
+    "name": "North Macedonia",
+    "type": "national"
+  },
+  {
+    "id": 941990,
+    "logo": "https://highlightly.net/soccer/images/teams/941990.png",
+    "name": "Cyprus",
+    "type": "national"
+  },
+  {
+    "id": 942841,
+    "logo": "https://highlightly.net/soccer/images/teams/942841.png",
+    "name": "Liechtenstein",
+    "type": "national"
+  },
+  {
+    "id": 943692,
+    "logo": "https://highlightly.net/soccer/images/teams/943692.png",
+    "name": "Scotland",
+    "type": "national"
+  },
+  {
+    "id": 944543,
+    "logo": "https://highlightly.net/soccer/images/teams/944543.png",
+    "name": "Montenegro",
+    "type": "national"
+  },
+  {
+    "id": 945394,
+    "logo": "https://highlightly.net/soccer/images/teams/945394.png",
+    "name": "Andorra",
+    "type": "national"
+  },
+  {
+    "id": 946245,
+    "logo": "https://highlightly.net/soccer/images/teams/946245.png",
+    "name": "Kosovo National Team",
+    "type": "national"
+  },
+  {
+    "id": 947096,
+    "logo": "https://highlightly.net/soccer/images/teams/947096.png",
+    "name": "Malta",
+    "type": "national"
+  },
+  {
+    "id": 947947,
+    "logo": "https://highlightly.net/soccer/images/teams/947947.png",
+    "name": "Bosnia & Herzegovina",
+    "type": "national"
+  },
+  {
+    "id": 948798,
+    "logo": "https://highlightly.net/soccer/images/teams/948798.png",
+    "name": "Moldova",
+    "type": "national"
+  },
+  {
+    "id": 949649,
+    "logo": "https://highlightly.net/soccer/images/teams/949649.png",
+    "name": "San Marino",
+    "type": "national"
+  },
+  {
+    "id": 950500,
+    "logo": "https://highlightly.net/soccer/images/teams/950500.png",
+    "name": "Israel",
+    "type": "national"
+  },
+  {
+    "id": 951351,
+    "logo": "https://highlightly.net/soccer/images/teams/951351.png",
+    "name": "Greece",
+    "type": "national"
+  },
+  {
+    "id": 952202,
+    "logo": "https://highlightly.net/soccer/images/teams/952202.png",
+    "name": "Netherlands",
+    "type": "national"
+  },
+  {
+    "id": 1267923,
+    "logo": "https://highlightly.net/soccer/images/teams/1267923.png",
+    "name": "Tanzania",
+    "type": "national"
+  },
+  {
+    "id": 1268774,
+    "logo": "https://highlightly.net/soccer/images/teams/1268774.png",
+    "name": "Madagascar",
+    "type": "national"
+  },
+  {
+    "id": 1269625,
+    "logo": "https://highlightly.net/soccer/images/teams/1269625.png",
+    "name": "Mauritania",
+    "type": "national"
+  },
+  {
+    "id": 1270476,
+    "logo": "https://highlightly.net/soccer/images/teams/1270476.png",
+    "name": "Gambia",
+    "type": "national"
+  },
+  {
+    "id": 1271327,
+    "logo": "https://highlightly.net/soccer/images/teams/1271327.png",
+    "name": "Namibia",
+    "type": "national"
+  },
+  {
+    "id": 1273029,
+    "logo": "https://highlightly.net/soccer/images/teams/1273029.png",
+    "name": "Malawi",
+    "type": "national"
+  },
+  {
+    "id": 1273880,
+    "logo": "https://highlightly.net/soccer/images/teams/1273880.png",
+    "name": "South Sudan",
+    "type": "national"
+  },
+  {
+    "id": 1274731,
+    "logo": "https://highlightly.net/soccer/images/teams/1274731.png",
+    "name": "Mauritius",
+    "type": "national"
+  },
+  {
+    "id": 1275582,
+    "logo": "https://highlightly.net/soccer/images/teams/1275582.png",
+    "name": "Eritrea",
+    "type": "national"
+  },
+  {
+    "id": 1276433,
+    "logo": "https://highlightly.net/soccer/images/teams/1276433.png",
+    "name": "Sierra Leone",
+    "type": "national"
+  },
+  {
+    "id": 1277284,
+    "logo": "https://highlightly.net/soccer/images/teams/1277284.png",
+    "name": "Mali",
+    "type": "national"
+  },
+  {
+    "id": 1278135,
+    "logo": "https://highlightly.net/soccer/images/teams/1278135.png",
+    "name": "Ivory Coast",
+    "type": "national"
+  },
+  {
+    "id": 1278986,
+    "logo": "https://highlightly.net/soccer/images/teams/1278986.png",
+    "name": "Burkina Faso",
+    "type": "national"
+  },
+  {
+    "id": 1279837,
+    "logo": "https://highlightly.net/soccer/images/teams/1279837.png",
+    "name": "Gabon",
+    "type": "national"
+  },
+  {
+    "id": 1280688,
+    "logo": "https://highlightly.net/soccer/images/teams/1280688.png",
+    "name": "Ghana",
+    "type": "national"
+  },
+  {
+    "id": 1281539,
+    "logo": "https://highlightly.net/soccer/images/teams/1281539.png",
+    "name": "Niger",
+    "type": "national"
+  },
+  {
+    "id": 1282390,
+    "logo": "https://highlightly.net/soccer/images/teams/1282390.png",
+    "name": "Ethiopia",
+    "type": "national"
+  },
+  {
+    "id": 1283241,
+    "logo": "https://highlightly.net/soccer/images/teams/1283241.png",
+    "name": "Zambia",
+    "type": "national"
+  },
+  {
+    "id": 1284092,
+    "logo": "https://highlightly.net/soccer/images/teams/1284092.png",
+    "name": "Congo DR",
+    "type": "national"
+  },
+  {
+    "id": 1284943,
+    "logo": "https://highlightly.net/soccer/images/teams/1284943.png",
+    "name": "Guinea",
+    "type": "national"
+  },
+  {
+    "id": 1285794,
+    "logo": "https://highlightly.net/soccer/images/teams/1285794.png",
+    "name": "Sudan",
+    "type": "national"
+  },
+  {
+    "id": 1286645,
+    "logo": "https://highlightly.net/soccer/images/teams/1286645.png",
+    "name": "Kenya",
+    "type": "national"
+  },
+  {
+    "id": 1287496,
+    "logo": "https://highlightly.net/soccer/images/teams/1287496.png",
+    "name": "Mozambique",
+    "type": "national"
+  },
+  {
+    "id": 1288347,
+    "logo": "https://highlightly.net/soccer/images/teams/1288347.png",
+    "name": "Guinea-Bissau",
+    "type": "national"
+  },
+  {
+    "id": 1289198,
+    "logo": "https://highlightly.net/soccer/images/teams/1289198.png",
+    "name": "Rwanda",
+    "type": "national"
+  },
+  {
+    "id": 1290049,
+    "logo": "https://highlightly.net/soccer/images/teams/1290049.png",
+    "name": "Seychelles",
+    "type": "national"
+  },
+  {
+    "id": 1290900,
+    "logo": "https://highlightly.net/soccer/images/teams/1290900.png",
+    "name": "Benin",
+    "type": "national"
+  },
+  {
+    "id": 1291751,
+    "logo": "https://highlightly.net/soccer/images/teams/1291751.png",
+    "name": "Congo",
+    "type": "national"
+  },
+  {
+    "id": 1292602,
+    "logo": "https://highlightly.net/soccer/images/teams/1292602.png",
+    "name": "Lesotho",
+    "type": "national"
+  },
+  {
+    "id": 1293453,
+    "logo": "https://highlightly.net/soccer/images/teams/1293453.png",
+    "name": "Uganda",
+    "type": "national"
+  },
+  {
+    "id": 1294304,
+    "logo": "https://highlightly.net/soccer/images/teams/1294304.png",
+    "name": "Botswana",
+    "type": "national"
+  },
+  {
+    "id": 1295155,
+    "logo": "https://highlightly.net/soccer/images/teams/1295155.png",
+    "name": "Equatorial Guinea",
+    "type": "national"
+  },
+  {
+    "id": 1296006,
+    "logo": "https://highlightly.net/soccer/images/teams/1296006.png",
+    "name": "Zimbabwe",
+    "type": "national"
+  },
+  {
+    "id": 1296857,
+    "logo": "https://highlightly.net/soccer/images/teams/1296857.png",
+    "name": "Chad",
+    "type": "national"
+  },
+  {
+    "id": 1297708,
+    "logo": "https://highlightly.net/soccer/images/teams/1297708.png",
+    "name": "Comoros",
+    "type": "national"
+  },
+  {
+    "id": 1298559,
+    "logo": "https://highlightly.net/soccer/images/teams/1298559.png",
+    "name": "Liberia",
+    "type": "national"
+  },
+  {
+    "id": 1299410,
+    "logo": "https://highlightly.net/soccer/images/teams/1299410.png",
+    "name": "Libya",
+    "type": "national"
+  },
+  {
+    "id": 1300261,
+    "logo": null,
+    "name": "Central African Republic",
+    "type": "national"
+  },
+  {
+    "id": 1301112,
+    "logo": "https://highlightly.net/soccer/images/teams/1301112.png",
+    "name": "Burundi",
+    "type": "national"
+  },
+  {
+    "id": 1301963,
+    "logo": "https://highlightly.net/soccer/images/teams/1301963.png",
+    "name": "Angola",
+    "type": "national"
+  },
+  {
+    "id": 1302814,
+    "logo": "https://highlightly.net/soccer/images/teams/1302814.png",
+    "name": "Cameroon",
+    "type": "national"
+  },
+  {
+    "id": 1303665,
+    "logo": "https://highlightly.net/soccer/images/teams/1303665.png",
+    "name": "South Africa",
+    "type": "national"
+  },
+  {
+    "id": 1304516,
+    "logo": "https://highlightly.net/soccer/images/teams/1304516.png",
+    "name": "Algeria",
+    "type": "national"
+  },
+  {
+    "id": 1305367,
+    "logo": "https://highlightly.net/soccer/images/teams/1305367.png",
+    "name": "Cape Verde",
+    "type": "national"
+  },
+  {
+    "id": 1306218,
+    "logo": "https://highlightly.net/soccer/images/teams/1306218.png",
+    "name": "Togo",
+    "type": "national"
+  },
+  {
+    "id": 1307069,
+    "logo": "https://highlightly.net/soccer/images/teams/1307069.png",
+    "name": "Djibouti",
+    "type": "national"
+  },
+  {
+    "id": 1307920,
+    "logo": "https://highlightly.net/soccer/images/teams/1307920.png",
+    "name": "Tajikistan",
+    "type": "national"
+  },
+  {
+    "id": 1308771,
+    "logo": "https://highlightly.net/soccer/images/teams/1308771.png",
+    "name": "India",
+    "type": "national"
+  },
+  {
+    "id": 1309622,
+    "logo": "https://highlightly.net/soccer/images/teams/1309622.png",
+    "name": "Malaysia",
+    "type": "national"
+  },
+  {
+    "id": 1310473,
+    "logo": "https://highlightly.net/soccer/images/teams/1310473.png",
+    "name": "Turkmenistan",
+    "type": "national"
+  },
+  {
+    "id": 1311324,
+    "logo": "https://highlightly.net/soccer/images/teams/1311324.png",
+    "name": "Bhutan",
+    "type": "national"
+  },
+  {
+    "id": 1313026,
+    "logo": "https://highlightly.net/soccer/images/teams/1313026.png",
+    "name": "Vietnam",
+    "type": "national"
+  },
+  {
+    "id": 1313877,
+    "logo": "https://highlightly.net/soccer/images/teams/1313877.png",
+    "name": "Cambodia",
+    "type": "national"
+  },
+  {
+    "id": 1315579,
+    "logo": "https://highlightly.net/soccer/images/teams/1315579.png",
+    "name": "Nepal",
+    "type": "national"
+  },
+  {
+    "id": 1316430,
+    "logo": "https://highlightly.net/soccer/images/teams/1316430.png",
+    "name": "Singapore",
+    "type": "national"
+  },
+  {
+    "id": 1317281,
+    "logo": "https://highlightly.net/soccer/images/teams/1317281.png",
+    "name": "Bahrain",
+    "type": "national"
+  },
+  {
+    "id": 1318132,
+    "logo": "https://highlightly.net/soccer/images/teams/1318132.png",
+    "name": "Jordan",
+    "type": "national"
+  },
+  {
+    "id": 1318983,
+    "logo": "https://highlightly.net/soccer/images/teams/1318983.png",
+    "name": "Maldives",
+    "type": "national"
+  },
+  {
+    "id": 1319834,
+    "logo": "https://highlightly.net/soccer/images/teams/1319834.png",
+    "name": "Yemen",
+    "type": "national"
+  },
+  {
+    "id": 1320685,
+    "logo": "https://highlightly.net/soccer/images/teams/1320685.png",
+    "name": "Lebanon",
+    "type": "national"
+  },
+  {
+    "id": 1321536,
+    "logo": "https://highlightly.net/soccer/images/teams/1321536.png",
+    "name": "Oman",
+    "type": "national"
+  },
+  {
+    "id": 1322387,
+    "logo": "https://highlightly.net/soccer/images/teams/1322387.png",
+    "name": "Afghanistan",
+    "type": "national"
+  },
+  {
+    "id": 1323238,
+    "logo": "https://highlightly.net/soccer/images/teams/1323238.png",
+    "name": "Kyrgyzstan",
+    "type": "national"
+  },
+  {
+    "id": 1324089,
+    "logo": "https://highlightly.net/soccer/images/teams/1324089.png",
+    "name": "Philippines",
+    "type": "national"
+  },
+  {
+    "id": 1324940,
+    "logo": "https://highlightly.net/soccer/images/teams/1324940.png",
+    "name": "Myanmar",
+    "type": "national"
+  },
+  {
+    "id": 1325791,
+    "logo": "https://highlightly.net/soccer/images/teams/1325791.png",
+    "name": "Chinese Taipei",
+    "type": "national"
+  },
+  {
+    "id": 1326642,
+    "logo": "https://highlightly.net/soccer/images/teams/1326642.png",
+    "name": "Laos",
+    "type": "national"
+  },
+  {
+    "id": 1328344,
+    "logo": "https://highlightly.net/soccer/images/teams/1328344.png",
+    "name": "Bangladesh",
+    "type": "national"
+  },
+  {
+    "id": 1329195,
+    "logo": "https://highlightly.net/soccer/images/teams/1329195.png",
+    "name": "North Korea",
+    "type": "national"
+  },
+  {
+    "id": 1330046,
+    "logo": "https://highlightly.net/soccer/images/teams/1330046.png",
+    "name": "Palestine",
+    "type": "national"
+  },
+  {
+    "id": 1330897,
+    "logo": "https://highlightly.net/soccer/images/teams/1330897.png",
+    "name": "United Arab Emirates",
+    "type": "national"
+  },
+  {
+    "id": 1331748,
+    "logo": "https://highlightly.net/soccer/images/teams/1331748.png",
+    "name": "Thailand",
+    "type": "national"
+  },
+  {
+    "id": 1332599,
+    "logo": "https://highlightly.net/soccer/images/teams/1332599.png",
+    "name": "Syria",
+    "type": "national"
+  },
+  {
+    "id": 1333450,
+    "logo": "https://highlightly.net/soccer/images/teams/1333450.png",
+    "name": "China",
+    "type": "national"
+  },
+  {
+    "id": 1334301,
+    "logo": "https://highlightly.net/soccer/images/teams/1334301.png",
+    "name": "Iraq",
+    "type": "national"
+  },
+  {
+    "id": 1335152,
+    "logo": "https://highlightly.net/soccer/images/teams/1335152.png",
+    "name": "Uzbekistan",
+    "type": "national"
+  },
+  {
+    "id": 1336003,
+    "logo": "https://highlightly.net/soccer/images/teams/1336003.png",
+    "name": "Qatar",
+    "type": "national"
+  },
+  {
+    "id": 1336854,
+    "logo": "https://highlightly.net/soccer/images/teams/1336854.png",
+    "name": "Kuwait",
+    "type": "national"
+  },
+  {
+    "id": 1337705,
+    "logo": "https://highlightly.net/soccer/images/teams/1337705.png",
+    "name": "Indonesia",
+    "type": "national"
+  },
+  {
+    "id": 1461100,
+    "logo": "https://highlightly.net/soccer/images/teams/1461100.png",
+    "name": "New Zealand Women",
+    "type": "national"
+  },
+  {
+    "id": 1461951,
+    "logo": "https://highlightly.net/soccer/images/teams/1461951.png",
+    "name": "Canada Women",
+    "type": "national"
+  },
+  {
+    "id": 1462802,
+    "logo": "https://highlightly.net/soccer/images/teams/1462802.png",
+    "name": "USA Women",
+    "type": "national"
+  },
+  {
+    "id": 1463653,
+    "logo": "https://highlightly.net/soccer/images/teams/1463653.png",
+    "name": "Germany Women",
+    "type": "national"
+  },
+  {
+    "id": 1464504,
+    "logo": "https://highlightly.net/soccer/images/teams/1464504.png",
+    "name": "Japan Women",
+    "type": "national"
+  },
+  {
+    "id": 1465355,
+    "logo": "https://highlightly.net/soccer/images/teams/1465355.png",
+    "name": "England Women",
+    "type": "national"
+  },
+  {
+    "id": 1466206,
+    "logo": "https://highlightly.net/soccer/images/teams/1466206.png",
+    "name": "Australia Women",
+    "type": "national"
+  },
+  {
+    "id": 1467057,
+    "logo": "https://highlightly.net/soccer/images/teams/1467057.png",
+    "name": "China Women",
+    "type": "national"
+  },
+  {
+    "id": 1467908,
+    "logo": "https://highlightly.net/soccer/images/teams/1467908.png",
+    "name": "Norway Women",
+    "type": "national"
+  },
+  {
+    "id": 1468759,
+    "logo": "https://highlightly.net/soccer/images/teams/1468759.png",
+    "name": "France Women",
+    "type": "national"
+  },
+  {
+    "id": 1469610,
+    "logo": "https://highlightly.net/soccer/images/teams/1469610.png",
+    "name": "Brazil Women",
+    "type": "national"
+  },
+  {
+    "id": 1470461,
+    "logo": "https://highlightly.net/soccer/images/teams/1470461.png",
+    "name": "Costa Rica Women",
+    "type": "national"
+  },
+  {
+    "id": 1471312,
+    "logo": "https://highlightly.net/soccer/images/teams/1471312.png",
+    "name": "South Korea Women",
+    "type": "national"
+  },
+  {
+    "id": 1472163,
+    "logo": "https://highlightly.net/soccer/images/teams/1472163.png",
+    "name": "Mexico Women",
+    "type": "national"
+  },
+  {
+    "id": 1473014,
+    "logo": "https://highlightly.net/soccer/images/teams/1473014.png",
+    "name": "Nigeria Women",
+    "type": "national"
+  },
+  {
+    "id": 1473865,
+    "logo": null,
+    "name": "Ecuador Women",
+    "type": "national"
+  },
+  {
+    "id": 1474716,
+    "logo": "https://highlightly.net/soccer/images/teams/1474716.png",
+    "name": "Switzerland Women",
+    "type": "national"
+  },
+  {
+    "id": 1475567,
+    "logo": "https://highlightly.net/soccer/images/teams/1475567.png",
+    "name": "Netherlands Women",
+    "type": "national"
+  },
+  {
+    "id": 1477269,
+    "logo": "https://highlightly.net/soccer/images/teams/1477269.png",
+    "name": "Thailand Women",
+    "type": "national"
+  },
+  {
+    "id": 1478120,
+    "logo": "https://highlightly.net/soccer/images/teams/1478120.png",
+    "name": "Spain Women",
+    "type": "national"
+  },
+  {
+    "id": 1478971,
+    "logo": "https://highlightly.net/soccer/images/teams/1478971.png",
+    "name": "Colombia Women",
+    "type": "national"
+  },
+  {
+    "id": 1479822,
+    "logo": "https://highlightly.net/soccer/images/teams/1479822.png",
+    "name": "Cameroon Women",
+    "type": "national"
+  },
+  {
+    "id": 1480673,
+    "logo": "https://highlightly.net/soccer/images/teams/1480673.png",
+    "name": "Sweden Women",
+    "type": "national"
+  },
+  {
+    "id": 1482375,
+    "logo": null,
+    "name": "Equatorial Guinea Women",
+    "type": "national"
+  },
+  {
+    "id": 1483226,
+    "logo": "https://highlightly.net/soccer/images/teams/1483226.png",
+    "name": "Hungary Women",
+    "type": "national"
+  },
+  {
+    "id": 1484077,
+    "logo": null,
+    "name": "Czech Republic Women",
+    "type": "national"
+  },
+  {
+    "id": 1484928,
+    "logo": null,
+    "name": "Belarus Women",
+    "type": "national"
+  },
+  {
+    "id": 1485779,
+    "logo": "https://highlightly.net/soccer/images/teams/1485779.png",
+    "name": "Romania Women",
+    "type": "national"
+  },
+  {
+    "id": 1486630,
+    "logo": "https://highlightly.net/soccer/images/teams/1486630.png",
+    "name": "Iceland Women",
+    "type": "national"
+  },
+  {
+    "id": 1487481,
+    "logo": "https://highlightly.net/soccer/images/teams/1487481.png",
+    "name": "Kazakhstan Women",
+    "type": "national"
+  },
+  {
+    "id": 1488332,
+    "logo": "https://highlightly.net/soccer/images/teams/1488332.png",
+    "name": "Italy Women",
+    "type": "national"
+  },
+  {
+    "id": 1489183,
+    "logo": "https://highlightly.net/soccer/images/teams/1489183.png",
+    "name": "Poland Women",
+    "type": "national"
+  },
+  {
+    "id": 1490034,
+    "logo": null,
+    "name": "Ukraine Women",
+    "type": "national"
+  },
+  {
+    "id": 1490885,
+    "logo": null,
+    "name": "Albania Women",
+    "type": "national"
+  },
+  {
+    "id": 1491736,
+    "logo": "https://highlightly.net/soccer/images/teams/1491736.png",
+    "name": "Faroe Islands Women",
+    "type": "national"
+  },
+  {
+    "id": 1493438,
+    "logo": "https://highlightly.net/soccer/images/teams/1493438.png",
+    "name": "Latvia Women",
+    "type": "national"
+  },
+  {
+    "id": 1494289,
+    "logo": null,
+    "name": "Kosovo Women",
+    "type": "national"
+  },
+  {
+    "id": 1495140,
+    "logo": null,
+    "name": "Andorra Women",
+    "type": "national"
+  },
+  {
+    "id": 1495991,
+    "logo": "https://highlightly.net/soccer/images/teams/1495991.png",
+    "name": "Moldova Women",
+    "type": "national"
+  },
+  {
+    "id": 1496842,
+    "logo": "https://highlightly.net/soccer/images/teams/1496842.png",
+    "name": "Luxembourg Women",
+    "type": "national"
+  },
+  {
+    "id": 1497693,
+    "logo": "https://highlightly.net/soccer/images/teams/1497693.png",
+    "name": "Türkiye Women",
+    "type": "national"
+  },
+  {
+    "id": 1498544,
+    "logo": "https://highlightly.net/soccer/images/teams/1498544.png",
+    "name": "Israel Women",
+    "type": "national"
+  },
+  {
+    "id": 1499395,
+    "logo": "https://highlightly.net/soccer/images/teams/1499395.png",
+    "name": "Montenegro Women",
+    "type": "national"
+  },
+  {
+    "id": 1500246,
+    "logo": "https://highlightly.net/soccer/images/teams/1500246.png",
+    "name": "Georgia Women",
+    "type": "national"
+  },
+  {
+    "id": 1501097,
+    "logo": "https://highlightly.net/soccer/images/teams/1501097.png",
+    "name": "Malta Women",
+    "type": "national"
+  },
+  {
+    "id": 1501948,
+    "logo": "https://highlightly.net/soccer/images/teams/1501948.png",
+    "name": "Lithuania Women",
+    "type": "national"
+  },
+  {
+    "id": 1502799,
+    "logo": "https://highlightly.net/soccer/images/teams/1502799.png",
+    "name": "Greece Women",
+    "type": "national"
+  },
+  {
+    "id": 1504501,
+    "logo": null,
+    "name": "Croatia Women",
+    "type": "national"
+  },
+  {
+    "id": 1506203,
+    "logo": "https://highlightly.net/soccer/images/teams/1506203.png",
+    "name": "Portugal Women",
+    "type": "national"
+  },
+  {
+    "id": 1507054,
+    "logo": "https://highlightly.net/soccer/images/teams/1507054.png",
+    "name": "Slovakia Women",
+    "type": "national"
+  },
+  {
+    "id": 1507905,
+    "logo": "https://highlightly.net/soccer/images/teams/1507905.png",
+    "name": "Finland Women",
+    "type": "national"
+  },
+  {
+    "id": 1508756,
+    "logo": "https://highlightly.net/soccer/images/teams/1508756.png",
+    "name": "Wales Women",
+    "type": "national"
+  },
+  {
+    "id": 1509607,
+    "logo": null,
+    "name": "Serbia Women",
+    "type": "national"
+  },
+  {
+    "id": 1510458,
+    "logo": "https://highlightly.net/soccer/images/teams/1510458.png",
+    "name": "Slovenia Women",
+    "type": "national"
+  },
+  {
+    "id": 1511309,
+    "logo": "https://highlightly.net/soccer/images/teams/1511309.png",
+    "name": "Scotland Women",
+    "type": "national"
+  },
+  {
+    "id": 1513011,
+    "logo": "https://highlightly.net/soccer/images/teams/1513011.png",
+    "name": "Belgium Women",
+    "type": "national"
+  },
+  {
+    "id": 1513862,
+    "logo": null,
+    "name": "Northern Ireland Women",
+    "type": "national"
+  },
+  {
+    "id": 1514713,
+    "logo": "https://highlightly.net/soccer/images/teams/1514713.png",
+    "name": "Denmark Women",
+    "type": "national"
+  },
+  {
+    "id": 1516415,
+    "logo": "https://highlightly.net/soccer/images/teams/1516415.png",
+    "name": "Panama Women",
+    "type": "national"
+  },
+  {
+    "id": 1517266,
+    "logo": "https://highlightly.net/soccer/images/teams/1517266.png",
+    "name": "Argentina Women",
+    "type": "national"
+  },
+  {
+    "id": 1518117,
+    "logo": null,
+    "name": "Cuba Women",
+    "type": "national"
+  },
+  {
+    "id": 1519819,
+    "logo": "https://highlightly.net/soccer/images/teams/1519819.png",
+    "name": "Jamaica Women",
+    "type": "national"
+  },
+  {
+    "id": 1683211,
+    "logo": "https://highlightly.net/soccer/images/teams/1683211.png",
+    "name": "Chile Women",
+    "type": "national"
+  },
+  {
+    "id": 1684062,
+    "logo": "https://highlightly.net/soccer/images/teams/1684062.png",
+    "name": "South Africa Women",
+    "type": "national"
+  },
+  {
+    "id": 2025313,
+    "logo": "https://highlightly.net/soccer/images/teams/2025313.png",
+    "name": "Venezuela",
+    "type": "national"
+  },
+  {
+    "id": 2026164,
+    "logo": "https://highlightly.net/soccer/images/teams/2026164.png",
+    "name": "Paraguay",
+    "type": "national"
+  },
+  {
+    "id": 2027015,
+    "logo": "https://highlightly.net/soccer/images/teams/2027015.png",
+    "name": "Bolivia",
+    "type": "national"
+  },
+  {
+    "id": 2027866,
+    "logo": "https://highlightly.net/soccer/images/teams/2027866.png",
+    "name": "Ecuador",
+    "type": "national"
+  },
+  {
+    "id": 2028717,
+    "logo": "https://highlightly.net/soccer/images/teams/2028717.png",
+    "name": "Chile",
+    "type": "national"
+  },
+  {
+    "id": 2029568,
+    "logo": "https://highlightly.net/soccer/images/teams/2029568.png",
+    "name": "USA",
+    "type": "national"
+  },
+  {
+    "id": 2030419,
+    "logo": "https://highlightly.net/soccer/images/teams/2030419.png",
+    "name": "Jamaica",
+    "type": "national"
+  },
+  {
+    "id": 2031270,
+    "logo": "https://highlightly.net/soccer/images/teams/2031270.png",
+    "name": "Haiti",
+    "type": "national"
+  },
+  {
+    "id": 2032972,
+    "logo": "https://highlightly.net/soccer/images/teams/2032972.png",
+    "name": "Cuba",
+    "type": "national"
+  },
+  {
+    "id": 2549529,
+    "logo": "https://highlightly.net/soccer/images/teams/2549529.png",
+    "name": "Eswatini",
+    "type": "national"
+  },
+  {
+    "id": 3747737,
+    "logo": null,
+    "name": "Arsenal",
+    "type": "national"
+  },
+  {
+    "id": 3796244,
+    "logo": "https://highlightly.net/soccer/images/teams/3796244.png",
+    "name": "Hong Kong",
+    "type": "national"
+  },
+  {
+    "id": 3976656,
+    "logo": "https://highlightly.net/soccer/images/teams/3976656.png",
+    "name": "Honduras",
+    "type": "national"
+  },
+  {
+    "id": 3977507,
+    "logo": "https://highlightly.net/soccer/images/teams/3977507.png",
+    "name": "New Zealand",
+    "type": "national"
+  },
+  {
+    "id": 4057501,
+    "logo": "https://highlightly.net/soccer/images/teams/4057501.png",
+    "name": "Mação",
+    "type": "national"
+  },
+  {
+    "id": 4389391,
+    "logo": "https://highlightly.net/soccer/images/teams/4389391.png",
+    "name": "Bahamas",
+    "type": "national"
+  },
+  {
+    "id": 4390242,
+    "logo": "https://highlightly.net/soccer/images/teams/4390242.png",
+    "name": "Bermuda",
+    "type": "national"
+  },
+  {
+    "id": 4391093,
+    "logo": "https://highlightly.net/soccer/images/teams/4391093.png",
+    "name": "El Salvador",
+    "type": "national"
+  },
+  {
+    "id": 4391944,
+    "logo": "https://highlightly.net/soccer/images/teams/4391944.png",
+    "name": "Fiji",
+    "type": "national"
+  },
+  {
+    "id": 4392795,
+    "logo": "https://highlightly.net/soccer/images/teams/4392795.png",
+    "name": "Guatemala",
+    "type": "national"
+  },
+  {
+    "id": 4393646,
+    "logo": "https://highlightly.net/soccer/images/teams/4393646.png",
+    "name": "Guyana",
+    "type": "national"
+  },
+  {
+    "id": 4394497,
+    "logo": "https://highlightly.net/soccer/images/teams/4394497.png",
+    "name": "New Caledonia",
+    "type": "national"
+  },
+  {
+    "id": 4395348,
+    "logo": "https://highlightly.net/soccer/images/teams/4395348.png",
+    "name": "Nicaragua",
+    "type": "national"
+  },
+  {
+    "id": 4396199,
+    "logo": "https://highlightly.net/soccer/images/teams/4396199.png",
+    "name": "Solomon Islands",
+    "type": "national"
+  },
+  {
+    "id": 4397050,
+    "logo": "https://highlightly.net/soccer/images/teams/4397050.png",
+    "name": "Sri Lanka",
+    "type": "national"
+  },
+  {
+    "id": 4397901,
+    "logo": "https://highlightly.net/soccer/images/teams/4397901.png",
+    "name": "Tahiti",
+    "type": "national"
+  },
+  {
+    "id": 4398752,
+    "logo": "https://highlightly.net/soccer/images/teams/4398752.png",
+    "name": "Trinidad and Tobago",
+    "type": "national"
+  },
+  {
+    "id": 4399603,
+    "logo": "https://highlightly.net/soccer/images/teams/4399603.png",
+    "name": "Turks and Caicos Islands",
+    "type": "national"
+  },
+  {
+    "id": 4400454,
+    "logo": "https://highlightly.net/soccer/images/teams/4400454.png",
+    "name": "Vanuatu",
+    "type": "national"
+  },
+  {
+    "id": 4623416,
+    "logo": null,
+    "name": "Bhutan U16",
+    "type": "national"
+  },
+  {
+    "id": 4624267,
+    "logo": null,
+    "name": "Bhutan U19",
+    "type": "national"
+  },
+  {
+    "id": 4703410,
+    "logo": "https://highlightly.net/soccer/images/teams/4703410.png",
+    "name": "Antigua and Barbuda",
+    "type": "national"
+  },
+  {
+    "id": 4704261,
+    "logo": "https://highlightly.net/soccer/images/teams/4704261.png",
+    "name": "Barbados",
+    "type": "national"
+  },
+  {
+    "id": 4705112,
+    "logo": "https://highlightly.net/soccer/images/teams/4705112.png",
+    "name": "Belize",
+    "type": "national"
+  },
+  {
+    "id": 4705963,
+    "logo": "https://highlightly.net/soccer/images/teams/4705963.png",
+    "name": "Canada",
+    "type": "national"
+  },
+  {
+    "id": 4706814,
+    "logo": "https://highlightly.net/soccer/images/teams/4706814.png",
+    "name": "Curaçao",
+    "type": "national"
+  },
+  {
+    "id": 4707665,
+    "logo": "https://highlightly.net/soccer/images/teams/4707665.png",
+    "name": "Dominica",
+    "type": "national"
+  },
+  {
+    "id": 4708516,
+    "logo": "https://highlightly.net/soccer/images/teams/4708516.png",
+    "name": "Dominican Republic",
+    "type": "national"
+  },
+  {
+    "id": 4709367,
+    "logo": "https://highlightly.net/soccer/images/teams/4709367.png",
+    "name": "Grenada",
+    "type": "national"
+  },
+  {
+    "id": 4710218,
+    "logo": "https://highlightly.net/soccer/images/teams/4710218.png",
+    "name": "Mongolia",
+    "type": "national"
+  },
+  {
+    "id": 4711069,
+    "logo": "https://highlightly.net/soccer/images/teams/4711069.png",
+    "name": "Pakistan",
+    "type": "national"
+  },
+  {
+    "id": 4711920,
+    "logo": "https://highlightly.net/soccer/images/teams/4711920.png",
+    "name": "St. Kitts and Nevis",
+    "type": "national"
+  },
+  {
+    "id": 4712771,
+    "logo": "https://highlightly.net/soccer/images/teams/4712771.png",
+    "name": "Timor-Leste",
+    "type": "national"
+  },
+  {
+    "id": 4713622,
+    "logo": "https://highlightly.net/soccer/images/teams/4713622.png",
+    "name": "Brunei",
+    "type": "national"
+  },
+  {
+    "id": 4714473,
+    "logo": "https://highlightly.net/soccer/images/teams/4714473.png",
+    "name": "Puerto Rico",
+    "type": "national"
+  },
+  {
+    "id": 4715324,
+    "logo": "https://highlightly.net/soccer/images/teams/4715324.png",
+    "name": "St. Lucia",
+    "type": "national"
+  },
+  {
+    "id": 4716175,
+    "logo": "https://highlightly.net/soccer/images/teams/4716175.png",
+    "name": "St. Vincent and the Grenadines",
+    "type": "national"
+  },
+  {
+    "id": 4717026,
+    "logo": "https://highlightly.net/soccer/images/teams/4717026.png",
+    "name": "Tonga",
+    "type": "national"
+  },
+  {
+    "id": 4762129,
+    "logo": null,
+    "name": "Bhutan U17",
+    "type": "national"
+  },
+  {
+    "id": 6851334,
+    "logo": "https://highlightly.net/soccer/images/teams/6851334.png",
+    "name": "Somalia",
+    "type": "national"
+  },
+  {
+    "id": 6908351,
+    "logo": "https://highlightly.net/soccer/images/teams/6908351.png",
+    "name": "Martinique",
+    "type": "national"
+  },
+  {
+    "id": 6909202,
+    "logo": null,
+    "name": "French Guyana",
+    "type": "national"
+  },
+  {
+    "id": 6910053,
+    "logo": "https://highlightly.net/soccer/images/teams/6910053.png",
+    "name": "Guam",
+    "type": "national"
+  },
+  {
+    "id": 6910904,
+    "logo": "https://highlightly.net/soccer/images/teams/6910904.png",
+    "name": "Northern Mariana Islands",
+    "type": "national"
+  },
+  {
+    "id": 6936434,
+    "logo": "https://highlightly.net/soccer/images/teams/6936434.png",
+    "name": "Anguilla",
+    "type": "national"
+  },
+  {
+    "id": 6950901,
+    "logo": "https://highlightly.net/soccer/images/teams/6950901.png",
+    "name": "Aruba",
+    "type": "national"
+  },
+  {
+    "id": 6951752,
+    "logo": "https://highlightly.net/soccer/images/teams/6951752.png",
+    "name": "British Virgin Islands",
+    "type": "national"
+  },
+  {
+    "id": 6952603,
+    "logo": "https://highlightly.net/soccer/images/teams/6952603.png",
+    "name": "Cayman Islands",
+    "type": "national"
+  },
+  {
+    "id": 6954305,
+    "logo": "https://highlightly.net/soccer/images/teams/6954305.png",
+    "name": "Suriname",
+    "type": "national"
+  },
+  {
+    "id": 6955156,
+    "logo": "https://highlightly.net/soccer/images/teams/6955156.png",
+    "name": "US Virgin Islands",
+    "type": "national"
+  },
+  {
+    "id": 6956007,
+    "logo": "https://highlightly.net/soccer/images/teams/6956007.png",
+    "name": "American Samoa",
+    "type": "national"
+  },
+  {
+    "id": 6956858,
+    "logo": "https://highlightly.net/soccer/images/teams/6956858.png",
+    "name": "Cook Islands",
+    "type": "national"
+  },
+  {
+    "id": 6957709,
+    "logo": "https://highlightly.net/soccer/images/teams/6957709.png",
+    "name": "Papua New Guinea",
+    "type": "national"
+  },
+  {
+    "id": 6958560,
+    "logo": "https://highlightly.net/soccer/images/teams/6958560.png",
+    "name": "Samoa",
+    "type": "national"
+  },
+  {
+    "id": 6959411,
+    "logo": "https://highlightly.net/soccer/images/teams/6959411.png",
+    "name": "Albania U21",
+    "type": "national"
+  },
+  {
+    "id": 6960262,
+    "logo": "https://highlightly.net/soccer/images/teams/6960262.png",
+    "name": "Andorra U21",
+    "type": "national"
+  },
+  {
+    "id": 6961113,
+    "logo": "https://highlightly.net/soccer/images/teams/6961113.png",
+    "name": "Armenia U21",
+    "type": "national"
+  },
+  {
+    "id": 6961964,
+    "logo": "https://highlightly.net/soccer/images/teams/6961964.png",
+    "name": "Austria U21",
+    "type": "national"
+  },
+  {
+    "id": 6962815,
+    "logo": "https://highlightly.net/soccer/images/teams/6962815.png",
+    "name": "Azerbaijan U21",
+    "type": "national"
+  },
+  {
+    "id": 6963666,
+    "logo": "https://highlightly.net/soccer/images/teams/6963666.png",
+    "name": "Belarus U21",
+    "type": "national"
+  },
+  {
+    "id": 6964517,
+    "logo": "https://highlightly.net/soccer/images/teams/6964517.png",
+    "name": "Belgium U21",
+    "type": "national"
+  },
+  {
+    "id": 6965368,
+    "logo": "https://highlightly.net/soccer/images/teams/6965368.png",
+    "name": "Bosnia-Herzegovina U21",
+    "type": "national"
+  },
+  {
+    "id": 6966219,
+    "logo": "https://highlightly.net/soccer/images/teams/6966219.png",
+    "name": "Bulgaria U21",
+    "type": "national"
+  },
+  {
+    "id": 6967070,
+    "logo": "https://highlightly.net/soccer/images/teams/6967070.png",
+    "name": "Croatia U21",
+    "type": "national"
+  },
+  {
+    "id": 6967921,
+    "logo": "https://highlightly.net/soccer/images/teams/6967921.png",
+    "name": "Cyprus U21",
+    "type": "national"
+  },
+  {
+    "id": 6968772,
+    "logo": "https://highlightly.net/soccer/images/teams/6968772.png",
+    "name": "Czech Republic U21",
+    "type": "national"
+  },
+  {
+    "id": 6969623,
+    "logo": "https://highlightly.net/soccer/images/teams/6969623.png",
+    "name": "Denmark U21",
+    "type": "national"
+  },
+  {
+    "id": 6970474,
+    "logo": "https://highlightly.net/soccer/images/teams/6970474.png",
+    "name": "England U21",
+    "type": "national"
+  },
+  {
+    "id": 6971325,
+    "logo": "https://highlightly.net/soccer/images/teams/6971325.png",
+    "name": "Estonia U21",
+    "type": "national"
+  },
+  {
+    "id": 6972176,
+    "logo": "https://highlightly.net/soccer/images/teams/6972176.png",
+    "name": "Faroe Islands U21",
+    "type": "national"
+  },
+  {
+    "id": 6973027,
+    "logo": "https://highlightly.net/soccer/images/teams/6973027.png",
+    "name": "Finland U21",
+    "type": "national"
+  },
+  {
+    "id": 6973878,
+    "logo": "https://highlightly.net/soccer/images/teams/6973878.png",
+    "name": "France U21",
+    "type": "national"
+  },
+  {
+    "id": 6974729,
+    "logo": "https://highlightly.net/soccer/images/teams/6974729.png",
+    "name": "Georgia U21",
+    "type": "national"
+  },
+  {
+    "id": 6975580,
+    "logo": "https://highlightly.net/soccer/images/teams/6975580.png",
+    "name": "Germany U21",
+    "type": "national"
+  },
+  {
+    "id": 6976431,
+    "logo": null,
+    "name": "Gibraltar U21",
+    "type": "national"
+  },
+  {
+    "id": 6977282,
+    "logo": "https://highlightly.net/soccer/images/teams/6977282.png",
+    "name": "Greece U21",
+    "type": "national"
+  },
+  {
+    "id": 6978133,
+    "logo": "https://highlightly.net/soccer/images/teams/6978133.png",
+    "name": "Iceland U21",
+    "type": "national"
+  },
+  {
+    "id": 6978984,
+    "logo": "https://highlightly.net/soccer/images/teams/6978984.png",
+    "name": "Israel U21",
+    "type": "national"
+  },
+  {
+    "id": 6979835,
+    "logo": "https://highlightly.net/soccer/images/teams/6979835.png",
+    "name": "Italy U21",
+    "type": "national"
+  },
+  {
+    "id": 6980686,
+    "logo": "https://highlightly.net/soccer/images/teams/6980686.png",
+    "name": "Kazakhstan U21",
+    "type": "national"
+  },
+  {
+    "id": 6982388,
+    "logo": "https://highlightly.net/soccer/images/teams/6982388.png",
+    "name": "Latvia U21",
+    "type": "national"
+  },
+  {
+    "id": 6983239,
+    "logo": "https://highlightly.net/soccer/images/teams/6983239.png",
+    "name": "Liechtenstein U21",
+    "type": "national"
+  },
+  {
+    "id": 6984090,
+    "logo": "https://highlightly.net/soccer/images/teams/6984090.png",
+    "name": "Lithuania U21",
+    "type": "national"
+  },
+  {
+    "id": 6984941,
+    "logo": "https://highlightly.net/soccer/images/teams/6984941.png",
+    "name": "Luxembourg U21",
+    "type": "national"
+  },
+  {
+    "id": 6985792,
+    "logo": "https://highlightly.net/soccer/images/teams/6985792.png",
+    "name": "Malta U21",
+    "type": "national"
+  },
+  {
+    "id": 6986643,
+    "logo": "https://highlightly.net/soccer/images/teams/6986643.png",
+    "name": "Moldova U21",
+    "type": "national"
+  },
+  {
+    "id": 6987494,
+    "logo": "https://highlightly.net/soccer/images/teams/6987494.png",
+    "name": "Montenegro U21",
+    "type": "national"
+  },
+  {
+    "id": 6988345,
+    "logo": "https://highlightly.net/soccer/images/teams/6988345.png",
+    "name": "Netherlands U21",
+    "type": "national"
+  },
+  {
+    "id": 6989196,
+    "logo": "https://highlightly.net/soccer/images/teams/6989196.png",
+    "name": "North Macedonia U21",
+    "type": "national"
+  },
+  {
+    "id": 6990047,
+    "logo": "https://highlightly.net/soccer/images/teams/6990047.png",
+    "name": "Northern Ireland U21",
+    "type": "national"
+  },
+  {
+    "id": 6990898,
+    "logo": "https://highlightly.net/soccer/images/teams/6990898.png",
+    "name": "Norway U21",
+    "type": "national"
+  },
+  {
+    "id": 6991749,
+    "logo": "https://highlightly.net/soccer/images/teams/6991749.png",
+    "name": "Poland U21",
+    "type": "national"
+  },
+  {
+    "id": 6992600,
+    "logo": "https://highlightly.net/soccer/images/teams/6992600.png",
+    "name": "Portugal U21",
+    "type": "national"
+  },
+  {
+    "id": 6993451,
+    "logo": "https://highlightly.net/soccer/images/teams/6993451.png",
+    "name": "Republic of Ireland U21",
+    "type": "national"
+  },
+  {
+    "id": 6994302,
+    "logo": "https://highlightly.net/soccer/images/teams/6994302.png",
+    "name": "Romania U21",
+    "type": "national"
+  },
+  {
+    "id": 6995153,
+    "logo": "https://highlightly.net/soccer/images/teams/6995153.png",
+    "name": "Russia U21",
+    "type": "national"
+  },
+  {
+    "id": 6996004,
+    "logo": "https://highlightly.net/soccer/images/teams/6996004.png",
+    "name": "San Marino U21",
+    "type": "national"
+  },
+  {
+    "id": 6996855,
+    "logo": "https://highlightly.net/soccer/images/teams/6996855.png",
+    "name": "Scotland U21",
+    "type": "national"
+  },
+  {
+    "id": 6997706,
+    "logo": "https://highlightly.net/soccer/images/teams/6997706.png",
+    "name": "Serbia U21",
+    "type": "national"
+  },
+  {
+    "id": 6998557,
+    "logo": "https://highlightly.net/soccer/images/teams/6998557.png",
+    "name": "Slovakia U21",
+    "type": "national"
+  },
+  {
+    "id": 6999408,
+    "logo": "https://highlightly.net/soccer/images/teams/6999408.png",
+    "name": "Spain U21",
+    "type": "national"
+  },
+  {
+    "id": 7000259,
+    "logo": "https://highlightly.net/soccer/images/teams/7000259.png",
+    "name": "Sweden U21",
+    "type": "national"
+  },
+  {
+    "id": 7001110,
+    "logo": "https://highlightly.net/soccer/images/teams/7001110.png",
+    "name": "Switzerland U21",
+    "type": "national"
+  },
+  {
+    "id": 7001961,
+    "logo": "https://highlightly.net/soccer/images/teams/7001961.png",
+    "name": "Turkey U21",
+    "type": "national"
+  },
+  {
+    "id": 7002812,
+    "logo": "https://highlightly.net/soccer/images/teams/7002812.png",
+    "name": "Ukraine U21",
+    "type": "national"
+  },
+  {
+    "id": 7003663,
+    "logo": "https://highlightly.net/soccer/images/teams/7003663.png",
+    "name": "Wales U21",
+    "type": "national"
+  },
+  {
+    "id": 7005365,
+    "logo": null,
+    "name": "Slovenia U21",
+    "type": "national"
+  },
+  {
+    "id": 7006216,
+    "logo": null,
+    "name": "Nacional",
+    "type": "national"
+  },
+  {
+    "id": 8656305,
+    "logo": "https://highlightly.net/soccer/images/teams/8656305.png",
+    "name": "Brazil  U23",
+    "type": "national"
+  },
+  {
+    "id": 8657156,
+    "logo": "https://highlightly.net/soccer/images/teams/8657156.png",
+    "name": "Egypt U23",
+    "type": "national"
+  },
+  {
+    "id": 8658007,
+    "logo": "https://highlightly.net/soccer/images/teams/8658007.png",
+    "name": "Gabon U23",
+    "type": "national"
+  },
+  {
+    "id": 8659709,
+    "logo": "https://highlightly.net/soccer/images/teams/8659709.png",
+    "name": "Honduras U23",
+    "type": "national"
+  },
+  {
+    "id": 8660560,
+    "logo": "https://highlightly.net/soccer/images/teams/8660560.png",
+    "name": "Japan U23",
+    "type": "national"
+  },
+  {
+    "id": 8661411,
+    "logo": "https://highlightly.net/soccer/images/teams/8661411.png",
+    "name": "Korea Republic U23",
+    "type": "national"
+  },
+  {
+    "id": 8662262,
+    "logo": "https://highlightly.net/soccer/images/teams/8662262.png",
+    "name": "Mexico U23",
+    "type": "national"
+  },
+  {
+    "id": 8663113,
+    "logo": "https://highlightly.net/soccer/images/teams/8663113.png",
+    "name": "Morocco U23",
+    "type": "national"
+  },
+  {
+    "id": 8663964,
+    "logo": "https://highlightly.net/soccer/images/teams/8663964.png",
+    "name": "New Zealand U23",
+    "type": "national"
+  },
+  {
+    "id": 8664815,
+    "logo": "https://highlightly.net/soccer/images/teams/8664815.png",
+    "name": "Senegal U23",
+    "type": "national"
+  },
+  {
+    "id": 8665666,
+    "logo": "https://highlightly.net/soccer/images/teams/8665666.png",
+    "name": "Spain U23",
+    "type": "national"
+  },
+  {
+    "id": 8667368,
+    "logo": "https://highlightly.net/soccer/images/teams/8667368.png",
+    "name": "UAE U23",
+    "type": "national"
+  },
+  {
+    "id": 8668219,
+    "logo": "https://highlightly.net/soccer/images/teams/8668219.png",
+    "name": "Uruguay U23",
+    "type": "national"
+  },
+  {
+    "id": 8669070,
+    "logo": "https://highlightly.net/soccer/images/teams/8669070.png",
+    "name": "Algeria U23",
+    "type": "national"
+  },
+  {
+    "id": 8669921,
+    "logo": "https://highlightly.net/soccer/images/teams/8669921.png",
+    "name": "Argentina U23",
+    "type": "national"
+  },
+  {
+    "id": 8670772,
+    "logo": "https://highlightly.net/soccer/images/teams/8670772.png",
+    "name": "Colombia U23",
+    "type": "national"
+  },
+  {
+    "id": 8673325,
+    "logo": "https://highlightly.net/soccer/images/teams/8673325.png",
+    "name": "Germany U23",
+    "type": "national"
+  },
+  {
+    "id": 8674176,
+    "logo": "https://highlightly.net/soccer/images/teams/8674176.png",
+    "name": "Iraq U23",
+    "type": "national"
+  },
+  {
+    "id": 8675027,
+    "logo": "https://highlightly.net/soccer/images/teams/8675027.png",
+    "name": "Nigeria U23",
+    "type": "national"
+  },
+  {
+    "id": 8676729,
+    "logo": "https://highlightly.net/soccer/images/teams/8676729.png",
+    "name": "South Africa U23",
+    "type": "national"
+  },
+  {
+    "id": 8752468,
+    "logo": "https://highlightly.net/soccer/images/teams/8752468.png",
+    "name": "Argentina U20",
+    "type": "national"
+  },
+  {
+    "id": 8753319,
+    "logo": "https://highlightly.net/soccer/images/teams/8753319.png",
+    "name": "Colombia U20",
+    "type": "national"
+  },
+  {
+    "id": 8754170,
+    "logo": "https://highlightly.net/soccer/images/teams/8754170.png",
+    "name": "Ecuador U20",
+    "type": "national"
+  },
+  {
+    "id": 8755021,
+    "logo": "https://highlightly.net/soccer/images/teams/8755021.png",
+    "name": "France U20",
+    "type": "national"
+  },
+  {
+    "id": 8755872,
+    "logo": "https://highlightly.net/soccer/images/teams/8755872.png",
+    "name": "Honduras U20",
+    "type": "national"
+  },
+  {
+    "id": 8756723,
+    "logo": "https://highlightly.net/soccer/images/teams/8756723.png",
+    "name": "Italy U20",
+    "type": "national"
+  },
+  {
+    "id": 8757574,
+    "logo": "https://highlightly.net/soccer/images/teams/8757574.png",
+    "name": "Japan U20",
+    "type": "national"
+  },
+  {
+    "id": 8758425,
+    "logo": null,
+    "name": "Korea Republic U20",
+    "type": "national"
+  },
+  {
+    "id": 8759276,
+    "logo": "https://highlightly.net/soccer/images/teams/8759276.png",
+    "name": "Mali U20",
+    "type": "national"
+  },
+  {
+    "id": 8760127,
+    "logo": "https://highlightly.net/soccer/images/teams/8760127.png",
+    "name": "Mexico U20",
+    "type": "national"
+  },
+  {
+    "id": 8760978,
+    "logo": "https://highlightly.net/soccer/images/teams/8760978.png",
+    "name": "New Zealand U20",
+    "type": "national"
+  },
+  {
+    "id": 8761829,
+    "logo": "https://highlightly.net/soccer/images/teams/8761829.png",
+    "name": "Nigeria U20",
+    "type": "national"
+  },
+  {
+    "id": 8762680,
+    "logo": null,
+    "name": "Norway U20",
+    "type": "national"
+  },
+  {
+    "id": 8763531,
+    "logo": "https://highlightly.net/soccer/images/teams/8763531.png",
+    "name": "Panama U20",
+    "type": "national"
+  },
+  {
+    "id": 8764382,
+    "logo": "https://highlightly.net/soccer/images/teams/8764382.png",
+    "name": "Poland U20",
+    "type": "national"
+  },
+  {
+    "id": 8765233,
+    "logo": "https://highlightly.net/soccer/images/teams/8765233.png",
+    "name": "Portugal U20",
+    "type": "national"
+  },
+  {
+    "id": 8766084,
+    "logo": null,
+    "name": "Qatar U20",
+    "type": "national"
+  },
+  {
+    "id": 8766935,
+    "logo": "https://highlightly.net/soccer/images/teams/8766935.png",
+    "name": "Saudi Arabia U20",
+    "type": "national"
+  },
+  {
+    "id": 8768637,
+    "logo": "https://highlightly.net/soccer/images/teams/8768637.png",
+    "name": "South Africa U20",
+    "type": "national"
+  },
+  {
+    "id": 8770339,
+    "logo": "https://highlightly.net/soccer/images/teams/8770339.png",
+    "name": "Ukraine U20",
+    "type": "national"
+  },
+  {
+    "id": 8772041,
+    "logo": "https://highlightly.net/soccer/images/teams/8772041.png",
+    "name": "Uruguay U20",
+    "type": "national"
+  },
+  {
+    "id": 8772892,
+    "logo": "https://highlightly.net/soccer/images/teams/8772892.png",
+    "name": "Costa Rica U20",
+    "type": "national"
+  },
+  {
+    "id": 8773743,
+    "logo": "https://highlightly.net/soccer/images/teams/8773743.png",
+    "name": "England U20",
+    "type": "national"
+  },
+  {
+    "id": 8774594,
+    "logo": "https://highlightly.net/soccer/images/teams/8774594.png",
+    "name": "Germany U20",
+    "type": "national"
+  },
+  {
+    "id": 8776296,
+    "logo": null,
+    "name": "Iran U20",
+    "type": "national"
+  },
+  {
+    "id": 8777998,
+    "logo": "https://highlightly.net/soccer/images/teams/8777998.png",
+    "name": "Venezuela U20",
+    "type": "national"
+  },
+  {
+    "id": 8778849,
+    "logo": null,
+    "name": "Vietnam U20",
+    "type": "national"
+  },
+  {
+    "id": 8779700,
+    "logo": null,
+    "name": "Zambia U20",
+    "type": "national"
+  },
+  {
+    "id": 8788210,
+    "logo": null,
+    "name": "Austria U19",
+    "type": "national"
+  },
+  {
+    "id": 8789061,
+    "logo": null,
+    "name": "Belgium U19",
+    "type": "national"
+  },
+  {
+    "id": 8789912,
+    "logo": "https://highlightly.net/soccer/images/teams/8789912.png",
+    "name": "Bulgaria U19",
+    "type": "national"
+  },
+  {
+    "id": 8790763,
+    "logo": null,
+    "name": "Croatia U19",
+    "type": "national"
+  },
+  {
+    "id": 8791614,
+    "logo": "https://highlightly.net/soccer/images/teams/8791614.png",
+    "name": "Czech Republic U19",
+    "type": "national"
+  },
+  {
+    "id": 8792465,
+    "logo": "https://highlightly.net/soccer/images/teams/8792465.png",
+    "name": "Denmark U19",
+    "type": "national"
+  },
+  {
+    "id": 8793316,
+    "logo": null,
+    "name": "England U19",
+    "type": "national"
+  },
+  {
+    "id": 8794167,
+    "logo": "https://highlightly.net/soccer/images/teams/8794167.png",
+    "name": "Finland U19",
+    "type": "national"
+  },
+  {
+    "id": 8795018,
+    "logo": null,
+    "name": "France U19",
+    "type": "national"
+  },
+  {
+    "id": 8795869,
+    "logo": "https://highlightly.net/soccer/images/teams/8795869.png",
+    "name": "Georgia U19",
+    "type": "national"
+  },
+  {
+    "id": 8796720,
+    "logo": null,
+    "name": "Germany U19",
+    "type": "national"
+  },
+  {
+    "id": 8797571,
+    "logo": null,
+    "name": "Iceland U19",
+    "type": "national"
+  },
+  {
+    "id": 8798422,
+    "logo": null,
+    "name": "Italy U19",
+    "type": "national"
+  },
+  {
+    "id": 8799273,
+    "logo": "https://highlightly.net/soccer/images/teams/8799273.png",
+    "name": "Latvia U19",
+    "type": "national"
+  },
+  {
+    "id": 8801826,
+    "logo": "https://highlightly.net/soccer/images/teams/8801826.png",
+    "name": "Norway U19",
+    "type": "national"
+  },
+  {
+    "id": 8802677,
+    "logo": null,
+    "name": "Portugal U19",
+    "type": "national"
+  },
+  {
+    "id": 8803528,
+    "logo": "https://highlightly.net/soccer/images/teams/8803528.png",
+    "name": "Russia U19",
+    "type": "national"
+  },
+  {
+    "id": 8804379,
+    "logo": "https://highlightly.net/soccer/images/teams/8804379.png",
+    "name": "Scotland U19",
+    "type": "national"
+  },
+  {
+    "id": 8805230,
+    "logo": "https://highlightly.net/soccer/images/teams/8805230.png",
+    "name": "Serbia U19",
+    "type": "national"
+  },
+  {
+    "id": 8806081,
+    "logo": "https://highlightly.net/soccer/images/teams/8806081.png",
+    "name": "Slovakia U19",
+    "type": "national"
+  },
+  {
+    "id": 8806932,
+    "logo": null,
+    "name": "Slovenia U19",
+    "type": "national"
+  },
+  {
+    "id": 8807783,
+    "logo": null,
+    "name": "Spain U19",
+    "type": "national"
+  },
+  {
+    "id": 8808634,
+    "logo": null,
+    "name": "Switzerland U19",
+    "type": "national"
+  },
+  {
+    "id": 8809485,
+    "logo": null,
+    "name": "Turkey U19",
+    "type": "national"
+  },
+  {
+    "id": 8810336,
+    "logo": "https://highlightly.net/soccer/images/teams/8810336.png",
+    "name": "Ukraine U19",
+    "type": "national"
+  },
+  {
+    "id": 8811187,
+    "logo": null,
+    "name": "Wales U19",
+    "type": "national"
+  },
+  {
+    "id": 8812038,
+    "logo": "https://highlightly.net/soccer/images/teams/8812038.png",
+    "name": "Albania U19",
+    "type": "national"
+  },
+  {
+    "id": 8812889,
+    "logo": null,
+    "name": "Andorra U19",
+    "type": "national"
+  },
+  {
+    "id": 8813740,
+    "logo": null,
+    "name": "Armenia U19",
+    "type": "national"
+  },
+  {
+    "id": 8814591,
+    "logo": "https://highlightly.net/soccer/images/teams/8814591.png",
+    "name": "Azerbaijan U19",
+    "type": "national"
+  },
+  {
+    "id": 8815442,
+    "logo": "https://highlightly.net/soccer/images/teams/8815442.png",
+    "name": "Belarus U19",
+    "type": "national"
+  },
+  {
+    "id": 8817144,
+    "logo": null,
+    "name": "Cyprus U19",
+    "type": "national"
+  },
+  {
+    "id": 8817995,
+    "logo": "https://highlightly.net/soccer/images/teams/8817995.png",
+    "name": "Estonia U19",
+    "type": "national"
+  },
+  {
+    "id": 8818846,
+    "logo": "https://highlightly.net/soccer/images/teams/8818846.png",
+    "name": "Faroe Islands U19",
+    "type": "national"
+  },
+  {
+    "id": 8819697,
+    "logo": null,
+    "name": "Gibraltar U19",
+    "type": "national"
+  },
+  {
+    "id": 8820548,
+    "logo": null,
+    "name": "Greece U19",
+    "type": "national"
+  },
+  {
+    "id": 8821399,
+    "logo": null,
+    "name": "Hungary U19",
+    "type": "national"
+  },
+  {
+    "id": 8823101,
+    "logo": null,
+    "name": "Kazakhstan U19",
+    "type": "national"
+  },
+  {
+    "id": 8824803,
+    "logo": "https://highlightly.net/soccer/images/teams/8824803.png",
+    "name": "Liechtenstein U19",
+    "type": "national"
+  },
+  {
+    "id": 8825654,
+    "logo": "https://highlightly.net/soccer/images/teams/8825654.png",
+    "name": "Lithuania U19",
+    "type": "national"
+  },
+  {
+    "id": 8826505,
+    "logo": "https://highlightly.net/soccer/images/teams/8826505.png",
+    "name": "Luxembourg U19",
+    "type": "national"
+  },
+  {
+    "id": 8827356,
+    "logo": "https://highlightly.net/soccer/images/teams/8827356.png",
+    "name": "Malta U19",
+    "type": "national"
+  },
+  {
+    "id": 8828207,
+    "logo": null,
+    "name": "Moldova U19",
+    "type": "national"
+  },
+  {
+    "id": 8829058,
+    "logo": null,
+    "name": "Montenegro U19",
+    "type": "national"
+  },
+  {
+    "id": 8829909,
+    "logo": null,
+    "name": "Northern Ireland U19",
+    "type": "national"
+  },
+  {
+    "id": 8830760,
+    "logo": null,
+    "name": "Poland U19",
+    "type": "national"
+  },
+  {
+    "id": 8831611,
+    "logo": null,
+    "name": "Republic of Ireland U19",
+    "type": "national"
+  },
+  {
+    "id": 8832462,
+    "logo": "https://highlightly.net/soccer/images/teams/8832462.png",
+    "name": "Romania U19",
+    "type": "national"
+  },
+  {
+    "id": 8834164,
+    "logo": "https://highlightly.net/soccer/images/teams/8834164.png",
+    "name": "Sweden U19",
+    "type": "national"
+  },
+  {
+    "id": 9298810,
+    "logo": null,
+    "name": "Afghanistan U23",
+    "type": "national"
+  },
+  {
+    "id": 9299661,
+    "logo": "https://highlightly.net/soccer/images/teams/9299661.png",
+    "name": "Australia U23",
+    "type": "national"
+  },
+  {
+    "id": 9300512,
+    "logo": "https://highlightly.net/soccer/images/teams/9300512.png",
+    "name": "Bahrain U23",
+    "type": "national"
+  },
+  {
+    "id": 9301363,
+    "logo": "https://highlightly.net/soccer/images/teams/9301363.png",
+    "name": "Bangladesh U23",
+    "type": "national"
+  },
+  {
+    "id": 9302214,
+    "logo": "https://highlightly.net/soccer/images/teams/9302214.png",
+    "name": "Brunei U23",
+    "type": "national"
+  },
+  {
+    "id": 9303065,
+    "logo": "https://highlightly.net/soccer/images/teams/9303065.png",
+    "name": "Cambodia U23",
+    "type": "national"
+  },
+  {
+    "id": 9303916,
+    "logo": "https://highlightly.net/soccer/images/teams/9303916.png",
+    "name": "China PR U23",
+    "type": "national"
+  },
+  {
+    "id": 9304767,
+    "logo": "https://highlightly.net/soccer/images/teams/9304767.png",
+    "name": "Chinese Taipei U23",
+    "type": "national"
+  },
+  {
+    "id": 9305618,
+    "logo": "https://highlightly.net/soccer/images/teams/9305618.png",
+    "name": "Hong Kong U23",
+    "type": "national"
+  },
+  {
+    "id": 9306469,
+    "logo": "https://highlightly.net/soccer/images/teams/9306469.png",
+    "name": "India U23",
+    "type": "national"
+  },
+  {
+    "id": 9307320,
+    "logo": "https://highlightly.net/soccer/images/teams/9307320.png",
+    "name": "Indonesia U23",
+    "type": "national"
+  },
+  {
+    "id": 9308171,
+    "logo": "https://highlightly.net/soccer/images/teams/9308171.png",
+    "name": "Iran U23",
+    "type": "national"
+  },
+  {
+    "id": 9309022,
+    "logo": "https://highlightly.net/soccer/images/teams/9309022.png",
+    "name": "Jordan U23",
+    "type": "national"
+  },
+  {
+    "id": 9309873,
+    "logo": "https://highlightly.net/soccer/images/teams/9309873.png",
+    "name": "Korea DPR U23",
+    "type": "national"
+  },
+  {
+    "id": 9310724,
+    "logo": "https://highlightly.net/soccer/images/teams/9310724.png",
+    "name": "Kuwait U23",
+    "type": "national"
+  },
+  {
+    "id": 9311575,
+    "logo": "https://highlightly.net/soccer/images/teams/9311575.png",
+    "name": "Kyrgyz Republic U23",
+    "type": "national"
+  },
+  {
+    "id": 9312426,
+    "logo": "https://highlightly.net/soccer/images/teams/9312426.png",
+    "name": "Laos U23",
+    "type": "national"
+  },
+  {
+    "id": 9313277,
+    "logo": "https://highlightly.net/soccer/images/teams/9313277.png",
+    "name": "Lebanon U23",
+    "type": "national"
+  },
+  {
+    "id": 9314128,
+    "logo": null,
+    "name": "Macao U23",
+    "type": "national"
+  },
+  {
+    "id": 9314979,
+    "logo": "https://highlightly.net/soccer/images/teams/9314979.png",
+    "name": "Malaysia U23",
+    "type": "national"
+  },
+  {
+    "id": 9315830,
+    "logo": "https://highlightly.net/soccer/images/teams/9315830.png",
+    "name": "Maldives U23",
+    "type": "national"
+  },
+  {
+    "id": 9316681,
+    "logo": "https://highlightly.net/soccer/images/teams/9316681.png",
+    "name": "Mongolia U23",
+    "type": "national"
+  },
+  {
+    "id": 9317532,
+    "logo": null,
+    "name": "Myanmar U23",
+    "type": "national"
+  },
+  {
+    "id": 9318383,
+    "logo": null,
+    "name": "Nepal U23",
+    "type": "national"
+  },
+  {
+    "id": 9319234,
+    "logo": "https://highlightly.net/soccer/images/teams/9319234.png",
+    "name": "Oman U23",
+    "type": "national"
+  },
+  {
+    "id": 9320085,
+    "logo": "https://highlightly.net/soccer/images/teams/9320085.png",
+    "name": "Pakistan U23",
+    "type": "national"
+  },
+  {
+    "id": 9320936,
+    "logo": "https://highlightly.net/soccer/images/teams/9320936.png",
+    "name": "Palestine U23",
+    "type": "national"
+  },
+  {
+    "id": 9321787,
+    "logo": "https://highlightly.net/soccer/images/teams/9321787.png",
+    "name": "Philippines U23",
+    "type": "national"
+  },
+  {
+    "id": 9322638,
+    "logo": "https://highlightly.net/soccer/images/teams/9322638.png",
+    "name": "Qatar U23",
+    "type": "national"
+  },
+  {
+    "id": 9323489,
+    "logo": "https://highlightly.net/soccer/images/teams/9323489.png",
+    "name": "Saudi Arabia U23",
+    "type": "national"
+  },
+  {
+    "id": 9324340,
+    "logo": "https://highlightly.net/soccer/images/teams/9324340.png",
+    "name": "Singapore U23",
+    "type": "national"
+  },
+  {
+    "id": 9325191,
+    "logo": "https://highlightly.net/soccer/images/teams/9325191.png",
+    "name": "Sri Lanka U23",
+    "type": "national"
+  },
+  {
+    "id": 9326042,
+    "logo": "https://highlightly.net/soccer/images/teams/9326042.png",
+    "name": "Syria U23",
+    "type": "national"
+  },
+  {
+    "id": 9326893,
+    "logo": "https://highlightly.net/soccer/images/teams/9326893.png",
+    "name": "Tajikistan U23",
+    "type": "national"
+  },
+  {
+    "id": 9327744,
+    "logo": "https://highlightly.net/soccer/images/teams/9327744.png",
+    "name": "Thailand U23",
+    "type": "national"
+  },
+  {
+    "id": 9328595,
+    "logo": null,
+    "name": "Timor-Leste U23",
+    "type": "national"
+  },
+  {
+    "id": 9329446,
+    "logo": "https://highlightly.net/soccer/images/teams/9329446.png",
+    "name": "Turkmenistan U23",
+    "type": "national"
+  },
+  {
+    "id": 9330297,
+    "logo": "https://highlightly.net/soccer/images/teams/9330297.png",
+    "name": "Uzbekistan U23",
+    "type": "national"
+  },
+  {
+    "id": 9331148,
+    "logo": "https://highlightly.net/soccer/images/teams/9331148.png",
+    "name": "Vietnam U23",
+    "type": "national"
+  },
+  {
+    "id": 9331999,
+    "logo": "https://highlightly.net/soccer/images/teams/9331999.png",
+    "name": "Yemen U23",
+    "type": "national"
+  },
+  {
+    "id": 9346466,
+    "logo": "https://highlightly.net/soccer/images/teams/9346466.png",
+    "name": "Bonaire",
+    "type": "national"
+  },
+  {
+    "id": 9348168,
+    "logo": "https://highlightly.net/soccer/images/teams/9348168.png",
+    "name": "Saint Martin",
+    "type": "national"
+  },
+  {
+    "id": 9349019,
+    "logo": "https://highlightly.net/soccer/images/teams/9349019.png",
+    "name": "Sint Maarten",
+    "type": "national"
+  },
+  {
+    "id": 9349870,
+    "logo": "https://highlightly.net/soccer/images/teams/9349870.png",
+    "name": "Anguilla U20",
+    "type": "national"
+  },
+  {
+    "id": 9350721,
+    "logo": "https://highlightly.net/soccer/images/teams/9350721.png",
+    "name": "Antigua and Barbuda U20",
+    "type": "national"
+  },
+  {
+    "id": 9352423,
+    "logo": "https://highlightly.net/soccer/images/teams/9352423.png",
+    "name": "Barbados U20",
+    "type": "national"
+  },
+  {
+    "id": 9353274,
+    "logo": "https://highlightly.net/soccer/images/teams/9353274.png",
+    "name": "Belize U20",
+    "type": "national"
+  },
+  {
+    "id": 9354125,
+    "logo": "https://highlightly.net/soccer/images/teams/9354125.png",
+    "name": "Bermuda U20",
+    "type": "national"
+  },
+  {
+    "id": 9354976,
+    "logo": "https://highlightly.net/soccer/images/teams/9354976.png",
+    "name": "Canada U20",
+    "type": "national"
+  },
+  {
+    "id": 9355827,
+    "logo": "https://highlightly.net/soccer/images/teams/9355827.png",
+    "name": "Cayman Islands U20",
+    "type": "national"
+  },
+  {
+    "id": 9356678,
+    "logo": "https://highlightly.net/soccer/images/teams/9356678.png",
+    "name": "Cuba U20",
+    "type": "national"
+  },
+  {
+    "id": 9357529,
+    "logo": null,
+    "name": "Curaçao U20",
+    "type": "national"
+  },
+  {
+    "id": 9358380,
+    "logo": "https://highlightly.net/soccer/images/teams/9358380.png",
+    "name": "Dominica U20",
+    "type": "national"
+  },
+  {
+    "id": 9360082,
+    "logo": "https://highlightly.net/soccer/images/teams/9360082.png",
+    "name": "El Salvador U20",
+    "type": "national"
+  },
+  {
+    "id": 9360933,
+    "logo": "https://highlightly.net/soccer/images/teams/9360933.png",
+    "name": "Grenada U20",
+    "type": "national"
+  },
+  {
+    "id": 9362635,
+    "logo": "https://highlightly.net/soccer/images/teams/9362635.png",
+    "name": "Guatemala U20",
+    "type": "national"
+  },
+  {
+    "id": 9363486,
+    "logo": "https://highlightly.net/soccer/images/teams/9363486.png",
+    "name": "Guyana U20",
+    "type": "national"
+  },
+  {
+    "id": 9364337,
+    "logo": "https://highlightly.net/soccer/images/teams/9364337.png",
+    "name": "Haiti U20",
+    "type": "national"
+  },
+  {
+    "id": 9365188,
+    "logo": "https://highlightly.net/soccer/images/teams/9365188.png",
+    "name": "Jamaica U20",
+    "type": "national"
+  },
+  {
+    "id": 9366890,
+    "logo": "https://highlightly.net/soccer/images/teams/9366890.png",
+    "name": "Nicaragua U20",
+    "type": "national"
+  },
+  {
+    "id": 9367741,
+    "logo": "https://highlightly.net/soccer/images/teams/9367741.png",
+    "name": "Puerto Rico U20",
+    "type": "national"
+  },
+  {
+    "id": 9368592,
+    "logo": "https://highlightly.net/soccer/images/teams/9368592.png",
+    "name": "Saint Martin U20",
+    "type": "national"
+  },
+  {
+    "id": 9369443,
+    "logo": null,
+    "name": "St Kitts and Nevis U20",
+    "type": "national"
+  },
+  {
+    "id": 9370294,
+    "logo": null,
+    "name": "St. Vincent and the Grenadines U20",
+    "type": "national"
+  },
+  {
+    "id": 9371145,
+    "logo": null,
+    "name": "Suriname U20",
+    "type": "national"
+  },
+  {
+    "id": 9371996,
+    "logo": "https://highlightly.net/soccer/images/teams/9371996.png",
+    "name": "Trinidad and Tobago U20",
+    "type": "national"
+  },
+  {
+    "id": 9372847,
+    "logo": null,
+    "name": "Us Virgin Islands U20",
+    "type": "national"
+  },
+  {
+    "id": 9373698,
+    "logo": "https://highlightly.net/soccer/images/teams/9373698.png",
+    "name": "Martinique U20",
+    "type": "national"
+  },
+  {
+    "id": 9374549,
+    "logo": null,
+    "name": "Sint Maarten U20",
+    "type": "national"
+  },
+  {
+    "id": 9375400,
+    "logo": null,
+    "name": "St. Lucia U20",
+    "type": "national"
+  },
+  {
+    "id": 9376251,
+    "logo": null,
+    "name": "Algeria U20",
+    "type": "national"
+  },
+  {
+    "id": 9377102,
+    "logo": "https://highlightly.net/soccer/images/teams/9377102.png",
+    "name": "Angola U20",
+    "type": "national"
+  },
+  {
+    "id": 9377953,
+    "logo": "https://highlightly.net/soccer/images/teams/9377953.png",
+    "name": "Benin U20",
+    "type": "national"
+  },
+  {
+    "id": 9378804,
+    "logo": "https://highlightly.net/soccer/images/teams/9378804.png",
+    "name": "Botswana U20",
+    "type": "national"
+  },
+  {
+    "id": 9379655,
+    "logo": null,
+    "name": "Burkina Faso U20",
+    "type": "national"
+  },
+  {
+    "id": 9380506,
+    "logo": null,
+    "name": "Burundi U20",
+    "type": "national"
+  },
+  {
+    "id": 9381357,
+    "logo": "https://highlightly.net/soccer/images/teams/9381357.png",
+    "name": "Cameroon U20",
+    "type": "national"
+  },
+  {
+    "id": 9382208,
+    "logo": null,
+    "name": "Congo DR U20",
+    "type": "national"
+  },
+  {
+    "id": 9383059,
+    "logo": "https://highlightly.net/soccer/images/teams/9383059.png",
+    "name": "Congo U20",
+    "type": "national"
+  },
+  {
+    "id": 9383910,
+    "logo": null,
+    "name": "Côte d'Ivoire U20",
+    "type": "national"
+  },
+  {
+    "id": 9384761,
+    "logo": "https://highlightly.net/soccer/images/teams/9384761.png",
+    "name": "Egypt U20",
+    "type": "national"
+  },
+  {
+    "id": 9385612,
+    "logo": null,
+    "name": "Eswatini U20",
+    "type": "national"
+  },
+  {
+    "id": 9386463,
+    "logo": null,
+    "name": "Ethiopia U20",
+    "type": "national"
+  },
+  {
+    "id": 9388165,
+    "logo": "https://highlightly.net/soccer/images/teams/9388165.png",
+    "name": "Gambia U20",
+    "type": "national"
+  },
+  {
+    "id": 9389016,
+    "logo": "https://highlightly.net/soccer/images/teams/9389016.png",
+    "name": "Ghana U20",
+    "type": "national"
+  },
+  {
+    "id": 9390718,
+    "logo": "https://highlightly.net/soccer/images/teams/9390718.png",
+    "name": "Kenya U20",
+    "type": "national"
+  },
+  {
+    "id": 9392420,
+    "logo": null,
+    "name": "Libya U20",
+    "type": "national"
+  },
+  {
+    "id": 9393271,
+    "logo": null,
+    "name": "Malawi U20",
+    "type": "national"
+  },
+  {
+    "id": 9394122,
+    "logo": null,
+    "name": "Mauritania U20",
+    "type": "national"
+  },
+  {
+    "id": 9394973,
+    "logo": "https://highlightly.net/soccer/images/teams/9394973.png",
+    "name": "Morocco U20",
+    "type": "national"
+  },
+  {
+    "id": 9395824,
+    "logo": null,
+    "name": "Mozambique U20",
+    "type": "national"
+  },
+  {
+    "id": 9396675,
+    "logo": null,
+    "name": "Namibia U20",
+    "type": "national"
+  },
+  {
+    "id": 9397526,
+    "logo": null,
+    "name": "Rwanda U20",
+    "type": "national"
+  },
+  {
+    "id": 9398377,
+    "logo": null,
+    "name": "Seychelles U20",
+    "type": "national"
+  },
+  {
+    "id": 9399228,
+    "logo": null,
+    "name": "Sierra Leone U20",
+    "type": "national"
+  },
+  {
+    "id": 9400079,
+    "logo": null,
+    "name": "South Sudan U20",
+    "type": "national"
+  },
+  {
+    "id": 9400930,
+    "logo": null,
+    "name": "Sudan U20",
+    "type": "national"
+  },
+  {
+    "id": 9401781,
+    "logo": null,
+    "name": "Tanzania U20",
+    "type": "national"
+  },
+  {
+    "id": 9403483,
+    "logo": "https://highlightly.net/soccer/images/teams/9403483.png",
+    "name": "Tunisia U20",
+    "type": "national"
+  },
+  {
+    "id": 9404334,
+    "logo": null,
+    "name": "Uganda U20",
+    "type": "national"
+  },
+  {
+    "id": 10637433,
+    "logo": "https://highlightly.net/soccer/images/teams/10637433.png",
+    "name": "Angola U17",
+    "type": "national"
+  },
+  {
+    "id": 10638284,
+    "logo": "https://highlightly.net/soccer/images/teams/10638284.png",
+    "name": "Argentina U17",
+    "type": "national"
+  },
+  {
+    "id": 10639135,
+    "logo": "https://highlightly.net/soccer/images/teams/10639135.png",
+    "name": "Australia U17",
+    "type": "national"
+  },
+  {
+    "id": 10639986,
+    "logo": null,
+    "name": "Brazil U17",
+    "type": "national"
+  },
+  {
+    "id": 10640837,
+    "logo": null,
+    "name": "Cameroon U17",
+    "type": "national"
+  },
+  {
+    "id": 10641688,
+    "logo": null,
+    "name": "Canada U17",
+    "type": "national"
+  },
+  {
+    "id": 10642539,
+    "logo": "https://highlightly.net/soccer/images/teams/10642539.png",
+    "name": "Chile U17",
+    "type": "national"
+  },
+  {
+    "id": 10643390,
+    "logo": "https://highlightly.net/soccer/images/teams/10643390.png",
+    "name": "Ecuador U17",
+    "type": "national"
+  },
+  {
+    "id": 10644241,
+    "logo": null,
+    "name": "France U17",
+    "type": "national"
+  },
+  {
+    "id": 10645092,
+    "logo": "https://highlightly.net/soccer/images/teams/10645092.png",
+    "name": "Haiti U17",
+    "type": "national"
+  },
+  {
+    "id": 10646794,
+    "logo": "https://highlightly.net/soccer/images/teams/10646794.png",
+    "name": "Italy U17",
+    "type": "national"
+  },
+  {
+    "id": 10647645,
+    "logo": "https://highlightly.net/soccer/images/teams/10647645.png",
+    "name": "Japan U17",
+    "type": "national"
+  },
+  {
+    "id": 10648496,
+    "logo": "https://highlightly.net/soccer/images/teams/10648496.png",
+    "name": "Korea Republic U17",
+    "type": "national"
+  },
+  {
+    "id": 10649347,
+    "logo": null,
+    "name": "Mexico U17",
+    "type": "national"
+  },
+  {
+    "id": 10650198,
+    "logo": "https://highlightly.net/soccer/images/teams/10650198.png",
+    "name": "Netherlands U17",
+    "type": "national"
+  },
+  {
+    "id": 10651049,
+    "logo": null,
+    "name": "New Zealand U17",
+    "type": "national"
+  },
+  {
+    "id": 10651900,
+    "logo": null,
+    "name": "Nigeria U17",
+    "type": "national"
+  },
+  {
+    "id": 10652751,
+    "logo": null,
+    "name": "Paraguay U17",
+    "type": "national"
+  },
+  {
+    "id": 10653602,
+    "logo": null,
+    "name": "Senegal U17",
+    "type": "national"
+  },
+  {
+    "id": 10655304,
+    "logo": null,
+    "name": "Spain U17",
+    "type": "national"
+  },
+  {
+    "id": 10656155,
+    "logo": "https://highlightly.net/soccer/images/teams/10656155.png",
+    "name": "Tajikistan U17",
+    "type": "national"
+  },
+  {
+    "id": 10657006,
+    "logo": "https://highlightly.net/soccer/images/teams/10657006.png",
+    "name": "United States U17",
+    "type": "national"
+  },
+  {
+    "id": 12301989,
+    "logo": null,
+    "name": "Bosnia-Herzegovina Women",
+    "type": "national"
+  },
+  {
+    "id": 12302840,
+    "logo": "https://highlightly.net/soccer/images/teams/12302840.png",
+    "name": "Republic of Ireland",
+    "type": "national"
+  },
+  {
+    "id": 12303691,
+    "logo": null,
+    "name": "Armenia Women",
+    "type": "national"
+  },
+  {
+    "id": 12304542,
+    "logo": "https://highlightly.net/soccer/images/teams/12304542.png",
+    "name": "Austria Women",
+    "type": "national"
+  },
+  {
+    "id": 12305393,
+    "logo": "https://highlightly.net/soccer/images/teams/12305393.png",
+    "name": "Haiti Women",
+    "type": "national"
+  },
+  {
+    "id": 12306244,
+    "logo": null,
+    "name": "Lesotho Women",
+    "type": "national"
+  },
+  {
+    "id": 12307095,
+    "logo": "https://highlightly.net/soccer/images/teams/12307095.png",
+    "name": "Morocco Women",
+    "type": "national"
+  },
+  {
+    "id": 12307946,
+    "logo": null,
+    "name": "Myanmar Women",
+    "type": "national"
+  },
+  {
+    "id": 12308797,
+    "logo": null,
+    "name": "Tunisia Women",
+    "type": "national"
+  },
+  {
+    "id": 12652601,
+    "logo": null,
+    "name": "WIT Georgia II",
+    "type": "national"
+  },
+  {
+    "id": 13013425,
+    "logo": null,
+    "name": "Bulgaria Women",
+    "type": "national"
+  },
+  {
+    "id": 13261917,
+    "logo": null,
+    "name": "Ghana Women",
+    "type": "national"
+  },
+  {
+    "id": 13262768,
+    "logo": "https://highlightly.net/soccer/images/teams/13262768.png",
+    "name": "Zambia Women",
+    "type": "national"
+  },
+  {
+    "id": 13515515,
+    "logo": null,
+    "name": "Luxembourg-Porto",
+    "type": "national"
+  },
+  {
+    "id": 13668695,
+    "logo": null,
+    "name": "North Macedonia",
+    "type": "national"
+  },
+  {
+    "id": 13669546,
+    "logo": "https://highlightly.net/soccer/images/teams/13669546.png",
+    "name": "Azerbaijan Women",
+    "type": "national"
+  },
+  {
+    "id": 13670397,
+    "logo": "https://highlightly.net/soccer/images/teams/13670397.png",
+    "name": "Cyprus Women",
+    "type": "national"
+  },
+  {
+    "id": 13783580,
+    "logo": null,
+    "name": "Comoros U20",
+    "type": "national"
+  },
+  {
+    "id": 13784431,
+    "logo": "https://highlightly.net/soccer/images/teams/13784431.png",
+    "name": "Lesotho U20",
+    "type": "national"
+  },
+  {
+    "id": 13785282,
+    "logo": null,
+    "name": "Zimbabwe U20",
+    "type": "national"
+  },
+  {
+    "id": 13786984,
+    "logo": "https://highlightly.net/soccer/images/teams/13786984.png",
+    "name": "Brazil U20",
+    "type": "national"
+  },
+  {
+    "id": 13787835,
+    "logo": null,
+    "name": "Chile U20",
+    "type": "national"
+  },
+  {
+    "id": 13788686,
+    "logo": null,
+    "name": "Paraguay U20",
+    "type": "national"
+  },
+  {
+    "id": 14042284,
+    "logo": "https://highlightly.net/soccer/images/teams/14042284.png",
+    "name": "Hungary U21",
+    "type": "national"
+  },
+  {
+    "id": 14144404,
+    "logo": "https://highlightly.net/soccer/images/teams/14144404.png",
+    "name": "Côte d'Ivoire U23",
+    "type": "national"
+  },
+  {
+    "id": 14145255,
+    "logo": null,
+    "name": "France U23",
+    "type": "national"
+  },
+  {
+    "id": 14146957,
+    "logo": null,
+    "name": "Great Britain",
+    "type": "national"
+  },
+  {
+    "id": 14403108,
+    "logo": null,
+    "name": "Bolivia Women",
+    "type": "national"
+  },
+  {
+    "id": 14403959,
+    "logo": null,
+    "name": "Botswana Women",
+    "type": "national"
+  },
+  {
+    "id": 14404810,
+    "logo": null,
+    "name": "Dominican Republic Women",
+    "type": "national"
+  },
+  {
+    "id": 14405661,
+    "logo": null,
+    "name": "El Salvador Women",
+    "type": "national"
+  },
+  {
+    "id": 14406512,
+    "logo": null,
+    "name": "Ethiopia Women",
+    "type": "national"
+  },
+  {
+    "id": 14407363,
+    "logo": null,
+    "name": "Gibraltar Women",
+    "type": "national"
+  },
+  {
+    "id": 14408214,
+    "logo": null,
+    "name": "Guatemala Women",
+    "type": "national"
+  },
+  {
+    "id": 14409065,
+    "logo": null,
+    "name": "India Women",
+    "type": "national"
+  },
+  {
+    "id": 14410767,
+    "logo": null,
+    "name": "Jordan Women",
+    "type": "national"
+  },
+  {
+    "id": 14411618,
+    "logo": null,
+    "name": "Kenya Women",
+    "type": "national"
+  },
+  {
+    "id": 14412469,
+    "logo": null,
+    "name": "Lebanon Women",
+    "type": "national"
+  },
+  {
+    "id": 14413320,
+    "logo": null,
+    "name": "Liechtenstein Women",
+    "type": "national"
+  },
+  {
+    "id": 14414171,
+    "logo": null,
+    "name": "Mali Women",
+    "type": "national"
+  },
+  {
+    "id": 14415022,
+    "logo": null,
+    "name": "Mozambique Women",
+    "type": "national"
+  },
+  {
+    "id": 14415873,
+    "logo": null,
+    "name": "Namibia Women",
+    "type": "national"
+  },
+  {
+    "id": 14416724,
+    "logo": null,
+    "name": "Nicaragua Women",
+    "type": "national"
+  },
+  {
+    "id": 14417575,
+    "logo": null,
+    "name": "Paraguay Women",
+    "type": "national"
+  },
+  {
+    "id": 14419277,
+    "logo": null,
+    "name": "South Sudan Women",
+    "type": "national"
+  },
+  {
+    "id": 14420128,
+    "logo": "https://highlightly.net/soccer/images/teams/14420128.png",
+    "name": "Uruguay Women",
+    "type": "national"
+  },
+  {
+    "id": 14420979,
+    "logo": null,
+    "name": "Uzbekistan Women",
+    "type": "national"
+  },
+  {
+    "id": 14569904,
+    "logo": "https://highlightly.net/soccer/images/teams/14569904.png",
+    "name": "Burundi U23",
+    "type": "national"
+  },
+  {
+    "id": 14570755,
+    "logo": "https://highlightly.net/soccer/images/teams/14570755.png",
+    "name": "Congo DR U23",
+    "type": "national"
+  },
+  {
+    "id": 14573308,
+    "logo": "https://highlightly.net/soccer/images/teams/14573308.png",
+    "name": "Ethiopia U23",
+    "type": "national"
+  },
+  {
+    "id": 14574159,
+    "logo": "https://highlightly.net/soccer/images/teams/14574159.png",
+    "name": "Kenya U23",
+    "type": "national"
+  },
+  {
+    "id": 14575010,
+    "logo": null,
+    "name": "South Sudan U23",
+    "type": "national"
+  },
+  {
+    "id": 14575861,
+    "logo": "https://highlightly.net/soccer/images/teams/14575861.png",
+    "name": "Tanzania Under-23",
+    "type": "national"
+  },
+  {
+    "id": 14576712,
+    "logo": "https://highlightly.net/soccer/images/teams/14576712.png",
+    "name": "Uganda U23",
+    "type": "national"
+  },
+  {
+    "id": 14690746,
+    "logo": "https://highlightly.net/soccer/images/teams/14690746.png",
+    "name": "China PR U20",
+    "type": "national"
+  },
+  {
+    "id": 15204750,
+    "logo": "https://highlightly.net/soccer/images/teams/15204750.png",
+    "name": "Canada U23",
+    "type": "national"
+  },
+  {
+    "id": 15206452,
+    "logo": "https://highlightly.net/soccer/images/teams/15206452.png",
+    "name": "Costa Rica U23",
+    "type": "national"
+  },
+  {
+    "id": 15207303,
+    "logo": null,
+    "name": "Cuba U23",
+    "type": "national"
+  },
+  {
+    "id": 15209856,
+    "logo": "https://highlightly.net/soccer/images/teams/15209856.png",
+    "name": "El Salvador U23",
+    "type": "national"
+  },
+  {
+    "id": 15211558,
+    "logo": "https://highlightly.net/soccer/images/teams/15211558.png",
+    "name": "Guatemala U23",
+    "type": "national"
+  },
+  {
+    "id": 15212409,
+    "logo": "https://highlightly.net/soccer/images/teams/15212409.png",
+    "name": "Haiti U23",
+    "type": "national"
+  },
+  {
+    "id": 15213260,
+    "logo": "https://highlightly.net/soccer/images/teams/15213260.png",
+    "name": "Jamaica U23",
+    "type": "national"
+  },
+  {
+    "id": 15214962,
+    "logo": "https://highlightly.net/soccer/images/teams/15214962.png",
+    "name": "Panama U23",
+    "type": "national"
+  },
+  {
+    "id": 15219217,
+    "logo": "https://highlightly.net/soccer/images/teams/15219217.png",
+    "name": "United States U23",
+    "type": "national"
+  },
+  {
+    "id": 15220068,
+    "logo": null,
+    "name": "UAE",
+    "type": "national"
+  },
+  {
+    "id": 15220919,
+    "logo": null,
+    "name": "Bangladesh Women",
+    "type": "national"
+  },
+  {
+    "id": 15221770,
+    "logo": "https://highlightly.net/soccer/images/teams/15221770.png",
+    "name": "Chinese Taipei Women",
+    "type": "national"
+  },
+  {
+    "id": 15222621,
+    "logo": null,
+    "name": "Indonesia Women",
+    "type": "national"
+  },
+  {
+    "id": 15223472,
+    "logo": null,
+    "name": "Maldives Women",
+    "type": "national"
+  },
+  {
+    "id": 15224323,
+    "logo": null,
+    "name": "Mongolia Women",
+    "type": "national"
+  },
+  {
+    "id": 15225174,
+    "logo": null,
+    "name": "Nepal Women",
+    "type": "national"
+  },
+  {
+    "id": 15226876,
+    "logo": "https://highlightly.net/soccer/images/teams/15226876.png",
+    "name": "Philippines Women",
+    "type": "national"
+  },
+  {
+    "id": 15227727,
+    "logo": null,
+    "name": "Singapore Women",
+    "type": "national"
+  },
+  {
+    "id": 15228578,
+    "logo": null,
+    "name": "Tajikistan Women",
+    "type": "national"
+  },
+  {
+    "id": 15229429,
+    "logo": "https://highlightly.net/soccer/images/teams/15229429.png",
+    "name": "Vietnam Women",
+    "type": "national"
+  },
+  {
+    "id": 15230280,
+    "logo": "https://highlightly.net/soccer/images/teams/15230280.png",
+    "name": "Hong Kong Women",
+    "type": "national"
+  },
+  {
+    "id": 15264320,
+    "logo": "https://highlightly.net/soccer/images/teams/15264320.png",
+    "name": "Albania U17",
+    "type": "national"
+  },
+  {
+    "id": 15265171,
+    "logo": "https://highlightly.net/soccer/images/teams/15265171.png",
+    "name": "Andorra U17",
+    "type": "national"
+  },
+  {
+    "id": 15266022,
+    "logo": "https://highlightly.net/soccer/images/teams/15266022.png",
+    "name": "Armenia U17",
+    "type": "national"
+  },
+  {
+    "id": 15266873,
+    "logo": "https://highlightly.net/soccer/images/teams/15266873.png",
+    "name": "Austria U17",
+    "type": "national"
+  },
+  {
+    "id": 15269426,
+    "logo": "https://highlightly.net/soccer/images/teams/15269426.png",
+    "name": "Belgium U17",
+    "type": "national"
+  },
+  {
+    "id": 15271128,
+    "logo": "https://highlightly.net/soccer/images/teams/15271128.png",
+    "name": "Bulgaria U17",
+    "type": "national"
+  },
+  {
+    "id": 15271979,
+    "logo": null,
+    "name": "Croatia U17",
+    "type": "national"
+  },
+  {
+    "id": 15273681,
+    "logo": null,
+    "name": "Czech Republic U17",
+    "type": "national"
+  },
+  {
+    "id": 15275383,
+    "logo": null,
+    "name": "England U17",
+    "type": "national"
+  },
+  {
+    "id": 15276234,
+    "logo": "https://highlightly.net/soccer/images/teams/15276234.png",
+    "name": "Estonia U17",
+    "type": "national"
+  },
+  {
+    "id": 15277085,
+    "logo": "https://highlightly.net/soccer/images/teams/15277085.png",
+    "name": "Faroe Islands U17",
+    "type": "national"
+  },
+  {
+    "id": 15277936,
+    "logo": "https://highlightly.net/soccer/images/teams/15277936.png",
+    "name": "Finland U17",
+    "type": "national"
+  },
+  {
+    "id": 15279638,
+    "logo": null,
+    "name": "Germany U17",
+    "type": "national"
+  },
+  {
+    "id": 15280489,
+    "logo": null,
+    "name": "Gibraltar U17",
+    "type": "national"
+  },
+  {
+    "id": 15282191,
+    "logo": "https://highlightly.net/soccer/images/teams/15282191.png",
+    "name": "Iceland U17",
+    "type": "national"
+  },
+  {
+    "id": 15283042,
+    "logo": "https://highlightly.net/soccer/images/teams/15283042.png",
+    "name": "Kazakhstan U17",
+    "type": "national"
+  },
+  {
+    "id": 15283893,
+    "logo": null,
+    "name": "Kosovo U17",
+    "type": "national"
+  },
+  {
+    "id": 15284744,
+    "logo": "https://highlightly.net/soccer/images/teams/15284744.png",
+    "name": "Latvia U17",
+    "type": "national"
+  },
+  {
+    "id": 15285595,
+    "logo": "https://highlightly.net/soccer/images/teams/15285595.png",
+    "name": "Liechtenstein U17",
+    "type": "national"
+  },
+  {
+    "id": 15286446,
+    "logo": "https://highlightly.net/soccer/images/teams/15286446.png",
+    "name": "Lithuania U17",
+    "type": "national"
+  },
+  {
+    "id": 15287297,
+    "logo": "https://highlightly.net/soccer/images/teams/15287297.png",
+    "name": "Luxembourg U17",
+    "type": "national"
+  },
+  {
+    "id": 15288148,
+    "logo": "https://highlightly.net/soccer/images/teams/15288148.png",
+    "name": "Malta U17",
+    "type": "national"
+  },
+  {
+    "id": 15293254,
+    "logo": "https://highlightly.net/soccer/images/teams/15293254.png",
+    "name": "Poland U17",
+    "type": "national"
+  },
+  {
+    "id": 15294105,
+    "logo": null,
+    "name": "Portugal U17",
+    "type": "national"
+  },
+  {
+    "id": 15294956,
+    "logo": null,
+    "name": "Republic of Ireland U17",
+    "type": "national"
+  },
+  {
+    "id": 15295807,
+    "logo": "https://highlightly.net/soccer/images/teams/15295807.png",
+    "name": "Romania U17",
+    "type": "national"
+  },
+  {
+    "id": 15301764,
+    "logo": null,
+    "name": "Sweden U17",
+    "type": "national"
+  },
+  {
+    "id": 15302615,
+    "logo": "https://highlightly.net/soccer/images/teams/15302615.png",
+    "name": "Switzerland U17",
+    "type": "national"
+  },
+  {
+    "id": 15303466,
+    "logo": null,
+    "name": "Turkey U17",
+    "type": "national"
+  },
+  {
+    "id": 15305168,
+    "logo": "https://highlightly.net/soccer/images/teams/15305168.png",
+    "name": "Wales U17",
+    "type": "national"
+  },
+  {
+    "id": 15358781,
+    "logo": "https://highlightly.net/soccer/images/teams/15358781.png",
+    "name": "Czech Republic U20",
+    "type": "national"
+  },
+  {
+    "id": 15471964,
+    "logo": null,
+    "name": "Romania U20",
+    "type": "national"
+  },
+  {
+    "id": 15537491,
+    "logo": null,
+    "name": "Algeria Women",
+    "type": "national"
+  },
+  {
+    "id": 15538342,
+    "logo": null,
+    "name": "Bahrain Women",
+    "type": "national"
+  },
+  {
+    "id": 15539193,
+    "logo": null,
+    "name": "Guyana Women",
+    "type": "national"
+  },
+  {
+    "id": 15540044,
+    "logo": null,
+    "name": "Honduras Women",
+    "type": "national"
+  },
+  {
+    "id": 15540895,
+    "logo": null,
+    "name": "Peru Women",
+    "type": "national"
+  },
+  {
+    "id": 15541746,
+    "logo": null,
+    "name": "Senegal Women",
+    "type": "national"
+  },
+  {
+    "id": 15542597,
+    "logo": null,
+    "name": "Trinidad and Tobago Women",
+    "type": "national"
+  },
+  {
+    "id": 15543448,
+    "logo": null,
+    "name": "Venezuela Women",
+    "type": "national"
+  },
+  {
+    "id": 15545150,
+    "logo": null,
+    "name": "Guam Women",
+    "type": "national"
+  },
+  {
+    "id": 15546001,
+    "logo": null,
+    "name": "Laos Women",
+    "type": "national"
+  },
+  {
+    "id": 15546852,
+    "logo": null,
+    "name": "Malaysia Women",
+    "type": "national"
+  },
+  {
+    "id": 15698330,
+    "logo": null,
+    "name": "Barbados Women",
+    "type": "national"
+  },
+  {
+    "id": 15699181,
+    "logo": null,
+    "name": "Suriname Women",
+    "type": "national"
+  },
+  {
+    "id": 15713648,
+    "logo": null,
+    "name": "Tahiti Women",
+    "type": "national"
+  },
+  {
+    "id": 15717052,
+    "logo": null,
+    "name": "Antigua and Barbuda Women",
+    "type": "national"
+  },
+  {
+    "id": 16096598,
+    "logo": "https://highlightly.net/soccer/images/teams/16096598.png",
+    "name": "Israel U17",
+    "type": "national"
+  },
+  {
+    "id": 16117022,
+    "logo": null,
+    "name": "Bermuda U17 Women",
+    "type": "national"
+  },
+  {
+    "id": 16117873,
+    "logo": null,
+    "name": "Costa Rica U17 Women",
+    "type": "national"
+  },
+  {
+    "id": 16118724,
+    "logo": null,
+    "name": "Cuba W U17",
+    "type": "national"
+  },
+  {
+    "id": 16119575,
+    "logo": null,
+    "name": "Curaçao W U17",
+    "type": "national"
+  },
+  {
+    "id": 16121277,
+    "logo": null,
+    "name": "El Salvador W U17",
+    "type": "national"
+  },
+  {
+    "id": 16122128,
+    "logo": null,
+    "name": "Grenada U17 Women",
+    "type": "national"
+  },
+  {
+    "id": 16122979,
+    "logo": null,
+    "name": "Guatemala W U17",
+    "type": "national"
+  },
+  {
+    "id": 16123830,
+    "logo": null,
+    "name": "Guyana W U17",
+    "type": "national"
+  },
+  {
+    "id": 16124681,
+    "logo": null,
+    "name": "Honduras W U17",
+    "type": "national"
+  },
+  {
+    "id": 16125532,
+    "logo": null,
+    "name": "Jamaica Women U17",
+    "type": "national"
+  },
+  {
+    "id": 16126383,
+    "logo": null,
+    "name": "Nicaragua W U17",
+    "type": "national"
+  },
+  {
+    "id": 16127234,
+    "logo": null,
+    "name": "Panama U17 Women",
+    "type": "national"
+  },
+  {
+    "id": 16128085,
+    "logo": null,
+    "name": "Puerto Rico Women U17",
+    "type": "national"
+  },
+  {
+    "id": 16128936,
+    "logo": null,
+    "name": "St. Kitts and Nevis Women U17",
+    "type": "national"
+  },
+  {
+    "id": 16129787,
+    "logo": null,
+    "name": "Trinidad and Tobago Women U17",
+    "type": "national"
+  },
+  {
+    "id": 16131489,
+    "logo": "https://highlightly.net/soccer/images/teams/16131489.png",
+    "name": "United States Women",
+    "type": "national"
+  },
+  {
+    "id": 16154466,
+    "logo": "https://highlightly.net/soccer/images/teams/16154466.png",
+    "name": "Japan U19",
+    "type": "national"
+  },
+  {
+    "id": 16155317,
+    "logo": "https://highlightly.net/soccer/images/teams/16155317.png",
+    "name": "Venezuela U23",
+    "type": "national"
+  },
+  {
+    "id": 16221695,
+    "logo": null,
+    "name": "England U19 Women",
+    "type": "national"
+  },
+  {
+    "id": 16222546,
+    "logo": "https://highlightly.net/soccer/images/teams/16222546.png",
+    "name": "France U19 Women",
+    "type": "national"
+  },
+  {
+    "id": 16223397,
+    "logo": null,
+    "name": "Germany U19 Women",
+    "type": "national"
+  },
+  {
+    "id": 16224248,
+    "logo": null,
+    "name": "Italy U19",
+    "type": "national"
+  },
+  {
+    "id": 16225099,
+    "logo": null,
+    "name": "Norway U19 Women",
+    "type": "national"
+  },
+  {
+    "id": 16225950,
+    "logo": null,
+    "name": "Spain U19 Women",
+    "type": "national"
+  },
+  {
+    "id": 16226801,
+    "logo": null,
+    "name": "Sweden Women U19",
+    "type": "national"
+  },
+  {
+    "id": 16227652,
+    "logo": null,
+    "name": "Algeria U18",
+    "type": "national"
+  },
+  {
+    "id": 16228503,
+    "logo": null,
+    "name": "France U18",
+    "type": "national"
+  },
+  {
+    "id": 16229354,
+    "logo": null,
+    "name": "Greece U18",
+    "type": "national"
+  },
+  {
+    "id": 16230205,
+    "logo": "https://highlightly.net/soccer/images/teams/16230205.png",
+    "name": "Italy U18",
+    "type": "national"
+  },
+  {
+    "id": 16231056,
+    "logo": null,
+    "name": "Morocco U18",
+    "type": "national"
+  },
+  {
+    "id": 16231907,
+    "logo": "https://highlightly.net/soccer/images/teams/16231907.png",
+    "name": "Portugal U18",
+    "type": "national"
+  },
+  {
+    "id": 16232758,
+    "logo": null,
+    "name": "Spain U18",
+    "type": "national"
+  },
+  {
+    "id": 16233609,
+    "logo": null,
+    "name": "Turkey U18",
+    "type": "national"
+  },
+  {
+    "id": 16234460,
+    "logo": null,
+    "name": "Australia U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 16235311,
+    "logo": null,
+    "name": "Netherlands U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 16236162,
+    "logo": null,
+    "name": "Spain U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 16237013,
+    "logo": null,
+    "name": "Brazil U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 16237864,
+    "logo": null,
+    "name": "Canada U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 16238715,
+    "logo": null,
+    "name": "Colombia U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 16239566,
+    "logo": null,
+    "name": "Costa Rica U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 16240417,
+    "logo": null,
+    "name": "France U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 16241268,
+    "logo": null,
+    "name": "Germany U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 16242119,
+    "logo": null,
+    "name": "Ghana U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 16242970,
+    "logo": null,
+    "name": "Japan U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 16243821,
+    "logo": null,
+    "name": "Korea Republic U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 16244672,
+    "logo": null,
+    "name": "Mexico U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 16245523,
+    "logo": null,
+    "name": "New Zealand U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 16246374,
+    "logo": null,
+    "name": "Nigeria U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 16247225,
+    "logo": "https://highlightly.net/soccer/images/teams/16247225.png",
+    "name": "United States U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 16248076,
+    "logo": null,
+    "name": "Burkina Faso Women",
+    "type": "national"
+  },
+  {
+    "id": 16248927,
+    "logo": null,
+    "name": "Burundi Women",
+    "type": "national"
+  },
+  {
+    "id": 16249778,
+    "logo": null,
+    "name": "Togo Women",
+    "type": "national"
+  },
+  {
+    "id": 16250629,
+    "logo": null,
+    "name": "Uganda Women",
+    "type": "national"
+  },
+  {
+    "id": 16278712,
+    "logo": null,
+    "name": "Cabo Verde",
+    "type": "national"
+  },
+  {
+    "id": 16279563,
+    "logo": null,
+    "name": "Côte d’Ivoire",
+    "type": "national"
+  },
+  {
+    "id": 16285520,
+    "logo": null,
+    "name": "Anguilla Women",
+    "type": "national"
+  },
+  {
+    "id": 16286371,
+    "logo": null,
+    "name": "Aruba Women",
+    "type": "national"
+  },
+  {
+    "id": 16287222,
+    "logo": null,
+    "name": "Belize Women",
+    "type": "national"
+  },
+  {
+    "id": 16288073,
+    "logo": null,
+    "name": "Bermuda Women",
+    "type": "national"
+  },
+  {
+    "id": 16288924,
+    "logo": null,
+    "name": "British Virgin Islands Women",
+    "type": "national"
+  },
+  {
+    "id": 16289775,
+    "logo": null,
+    "name": "Cayman Islands Women",
+    "type": "national"
+  },
+  {
+    "id": 16290626,
+    "logo": null,
+    "name": "Curaçao Women",
+    "type": "national"
+  },
+  {
+    "id": 16291477,
+    "logo": null,
+    "name": "Dominica Women",
+    "type": "national"
+  },
+  {
+    "id": 16292328,
+    "logo": null,
+    "name": "Grenada Women",
+    "type": "national"
+  },
+  {
+    "id": 16293179,
+    "logo": null,
+    "name": "St. Kitts and Nevis Women",
+    "type": "national"
+  },
+  {
+    "id": 16294030,
+    "logo": null,
+    "name": "Turks and Caicos Islands Women",
+    "type": "national"
+  },
+  {
+    "id": 16294881,
+    "logo": null,
+    "name": "Brunei U19",
+    "type": "national"
+  },
+  {
+    "id": 16295732,
+    "logo": "https://highlightly.net/soccer/images/teams/16295732.png",
+    "name": "Cambodia U19",
+    "type": "national"
+  },
+  {
+    "id": 16296583,
+    "logo": "https://highlightly.net/soccer/images/teams/16296583.png",
+    "name": "Indonesia U19",
+    "type": "national"
+  },
+  {
+    "id": 16297434,
+    "logo": null,
+    "name": "Laos U19",
+    "type": "national"
+  },
+  {
+    "id": 16298285,
+    "logo": "https://highlightly.net/soccer/images/teams/16298285.png",
+    "name": "Malaysia U19",
+    "type": "national"
+  },
+  {
+    "id": 16299136,
+    "logo": null,
+    "name": "Myanmar U19",
+    "type": "national"
+  },
+  {
+    "id": 16299987,
+    "logo": "https://highlightly.net/soccer/images/teams/16299987.png",
+    "name": "Philippines U19",
+    "type": "national"
+  },
+  {
+    "id": 16301689,
+    "logo": null,
+    "name": "Thailand U19",
+    "type": "national"
+  },
+  {
+    "id": 16302540,
+    "logo": null,
+    "name": "Timor-Leste U19",
+    "type": "national"
+  },
+  {
+    "id": 16303391,
+    "logo": "https://highlightly.net/soccer/images/teams/16303391.png",
+    "name": "Vietnam U19",
+    "type": "national"
+  },
+  {
+    "id": 16335729,
+    "logo": null,
+    "name": "Esperança d'Andorra",
+    "type": "national"
+  },
+  {
+    "id": 16522949,
+    "logo": null,
+    "name": "Congo Women",
+    "type": "national"
+  },
+  {
+    "id": 16523800,
+    "logo": null,
+    "name": "Cook Islands Women",
+    "type": "national"
+  },
+  {
+    "id": 16524651,
+    "logo": null,
+    "name": "Egypt Women",
+    "type": "national"
+  },
+  {
+    "id": 16526353,
+    "logo": null,
+    "name": "Gambia Women",
+    "type": "national"
+  },
+  {
+    "id": 16700808,
+    "logo": null,
+    "name": "Bahrain U20",
+    "type": "national"
+  },
+  {
+    "id": 16701659,
+    "logo": null,
+    "name": "Djibouti U20",
+    "type": "national"
+  },
+  {
+    "id": 16702510,
+    "logo": "https://highlightly.net/soccer/images/teams/16702510.png",
+    "name": "Iraq U20",
+    "type": "national"
+  },
+  {
+    "id": 16703361,
+    "logo": "https://highlightly.net/soccer/images/teams/16703361.png",
+    "name": "Jordan U20",
+    "type": "national"
+  },
+  {
+    "id": 16704212,
+    "logo": null,
+    "name": "Lebanon U20",
+    "type": "national"
+  },
+  {
+    "id": 16705063,
+    "logo": null,
+    "name": "Oman U20",
+    "type": "national"
+  },
+  {
+    "id": 16705914,
+    "logo": null,
+    "name": "Palestine U20",
+    "type": "national"
+  },
+  {
+    "id": 16706765,
+    "logo": null,
+    "name": "Somalia U20",
+    "type": "national"
+  },
+  {
+    "id": 16707616,
+    "logo": null,
+    "name": "UAE U20",
+    "type": "national"
+  },
+  {
+    "id": 16708467,
+    "logo": null,
+    "name": "Yemen U20",
+    "type": "national"
+  },
+  {
+    "id": 16959512,
+    "logo": "https://highlightly.net/soccer/images/teams/16959512.png",
+    "name": "Azerbaijan U23",
+    "type": "national"
+  },
+  {
+    "id": 16960363,
+    "logo": "https://highlightly.net/soccer/images/teams/16960363.png",
+    "name": "Cameroon U23",
+    "type": "national"
+  },
+  {
+    "id": 16961214,
+    "logo": "https://highlightly.net/soccer/images/teams/16961214.png",
+    "name": "Turkey U23",
+    "type": "national"
+  },
+  {
+    "id": 16962065,
+    "logo": null,
+    "name": "Mauritius Women",
+    "type": "national"
+  },
+  {
+    "id": 16963767,
+    "logo": null,
+    "name": "Seychelles Women",
+    "type": "national"
+  },
+  {
+    "id": 16965469,
+    "logo": null,
+    "name": "Syria Women",
+    "type": "national"
+  },
+  {
+    "id": 17310975,
+    "logo": "https://highlightly.net/soccer/images/teams/17310975.png",
+    "name": "Mauritius U20",
+    "type": "national"
+  },
+  {
+    "id": 17405436,
+    "logo": null,
+    "name": "Bhutan Women",
+    "type": "national"
+  },
+  {
+    "id": 17406287,
+    "logo": null,
+    "name": "Saudi Arabia Women",
+    "type": "national"
+  },
+  {
+    "id": 17468410,
+    "logo": null,
+    "name": "China PR U17",
+    "type": "national"
+  },
+  {
+    "id": 17469261,
+    "logo": "https://highlightly.net/soccer/images/teams/17469261.png",
+    "name": "Colombia U17",
+    "type": "national"
+  },
+  {
+    "id": 17472665,
+    "logo": null,
+    "name": "Chile U17 Women",
+    "type": "national"
+  },
+  {
+    "id": 17474367,
+    "logo": null,
+    "name": "Chile U19",
+    "type": "national"
+  },
+  {
+    "id": 17479473,
+    "logo": "https://highlightly.net/soccer/images/teams/17479473.png",
+    "name": "Angola U23",
+    "type": "national"
+  },
+  {
+    "id": 17481175,
+    "logo": "https://highlightly.net/soccer/images/teams/17481175.png",
+    "name": "Botswana U23",
+    "type": "national"
+  },
+  {
+    "id": 17482026,
+    "logo": "https://highlightly.net/soccer/images/teams/17482026.png",
+    "name": "Burkina Faso U23",
+    "type": "national"
+  },
+  {
+    "id": 17482877,
+    "logo": null,
+    "name": "Congo U23",
+    "type": "national"
+  },
+  {
+    "id": 17483728,
+    "logo": "https://highlightly.net/soccer/images/teams/17483728.png",
+    "name": "Eswatini U23",
+    "type": "national"
+  },
+  {
+    "id": 17485430,
+    "logo": "https://highlightly.net/soccer/images/teams/17485430.png",
+    "name": "Ghana U23",
+    "type": "national"
+  },
+  {
+    "id": 17486281,
+    "logo": "https://highlightly.net/soccer/images/teams/17486281.png",
+    "name": "Guinea U23",
+    "type": "national"
+  },
+  {
+    "id": 17487983,
+    "logo": "https://highlightly.net/soccer/images/teams/17487983.png",
+    "name": "Libya U23",
+    "type": "national"
+  },
+  {
+    "id": 17489685,
+    "logo": "https://highlightly.net/soccer/images/teams/17489685.png",
+    "name": "Mali U23",
+    "type": "national"
+  },
+  {
+    "id": 17490536,
+    "logo": "https://highlightly.net/soccer/images/teams/17490536.png",
+    "name": "Mauritania U23",
+    "type": "national"
+  },
+  {
+    "id": 17491387,
+    "logo": "https://highlightly.net/soccer/images/teams/17491387.png",
+    "name": "Mauritius U23",
+    "type": "national"
+  },
+  {
+    "id": 17492238,
+    "logo": "https://highlightly.net/soccer/images/teams/17492238.png",
+    "name": "Mozambique U23",
+    "type": "national"
+  },
+  {
+    "id": 17493089,
+    "logo": "https://highlightly.net/soccer/images/teams/17493089.png",
+    "name": "Namibia U23",
+    "type": "national"
+  },
+  {
+    "id": 17493940,
+    "logo": "https://highlightly.net/soccer/images/teams/17493940.png",
+    "name": "Niger U23",
+    "type": "national"
+  },
+  {
+    "id": 17494791,
+    "logo": "https://highlightly.net/soccer/images/teams/17494791.png",
+    "name": "Rwanda U23",
+    "type": "national"
+  },
+  {
+    "id": 17495642,
+    "logo": "https://highlightly.net/soccer/images/teams/17495642.png",
+    "name": "Seychelles U23",
+    "type": "national"
+  },
+  {
+    "id": 17496493,
+    "logo": "https://highlightly.net/soccer/images/teams/17496493.png",
+    "name": "Sierra Leone U23",
+    "type": "national"
+  },
+  {
+    "id": 17497344,
+    "logo": "https://highlightly.net/soccer/images/teams/17497344.png",
+    "name": "Sudan U23",
+    "type": "national"
+  },
+  {
+    "id": 17498195,
+    "logo": "https://highlightly.net/soccer/images/teams/17498195.png",
+    "name": "Togo U23",
+    "type": "national"
+  },
+  {
+    "id": 17499046,
+    "logo": "https://highlightly.net/soccer/images/teams/17499046.png",
+    "name": "Tunisia U23",
+    "type": "national"
+  },
+  {
+    "id": 17499897,
+    "logo": "https://highlightly.net/soccer/images/teams/17499897.png",
+    "name": "Zambia U23",
+    "type": "national"
+  },
+  {
+    "id": 17688819,
+    "logo": null,
+    "name": "Kosovo U19",
+    "type": "national"
+  },
+  {
+    "id": 17705839,
+    "logo": null,
+    "name": "Comoros Women",
+    "type": "national"
+  },
+  {
+    "id": 17706690,
+    "logo": null,
+    "name": "Pakistan Women",
+    "type": "national"
+  },
+  {
+    "id": 17862423,
+    "logo": "https://highlightly.net/soccer/images/teams/17862423.png",
+    "name": "Barbados U17",
+    "type": "national"
+  },
+  {
+    "id": 17863274,
+    "logo": "https://highlightly.net/soccer/images/teams/17863274.png",
+    "name": "Costa Rica U17",
+    "type": "national"
+  },
+  {
+    "id": 17864125,
+    "logo": "https://highlightly.net/soccer/images/teams/17864125.png",
+    "name": "Cuba U17",
+    "type": "national"
+  },
+  {
+    "id": 17864976,
+    "logo": null,
+    "name": "Curaçao U17",
+    "type": "national"
+  },
+  {
+    "id": 17866678,
+    "logo": "https://highlightly.net/soccer/images/teams/17866678.png",
+    "name": "El Salvador U17",
+    "type": "national"
+  },
+  {
+    "id": 17868380,
+    "logo": "https://highlightly.net/soccer/images/teams/17868380.png",
+    "name": "Guatemala U17",
+    "type": "national"
+  },
+  {
+    "id": 17869231,
+    "logo": "https://highlightly.net/soccer/images/teams/17869231.png",
+    "name": "Honduras U17",
+    "type": "national"
+  },
+  {
+    "id": 17870082,
+    "logo": "https://highlightly.net/soccer/images/teams/17870082.png",
+    "name": "Jamaica U17",
+    "type": "national"
+  },
+  {
+    "id": 17870933,
+    "logo": "https://highlightly.net/soccer/images/teams/17870933.png",
+    "name": "Nicaragua U17",
+    "type": "national"
+  },
+  {
+    "id": 17871784,
+    "logo": "https://highlightly.net/soccer/images/teams/17871784.png",
+    "name": "Panama U17",
+    "type": "national"
+  },
+  {
+    "id": 17872635,
+    "logo": null,
+    "name": "Suriname U17",
+    "type": "national"
+  },
+  {
+    "id": 17873486,
+    "logo": "https://highlightly.net/soccer/images/teams/17873486.png",
+    "name": "Trinidad and Tobago U17",
+    "type": "national"
+  },
+  {
+    "id": 17882847,
+    "logo": null,
+    "name": "Bermuda  U17",
+    "type": "national"
+  },
+  {
+    "id": 17883698,
+    "logo": "https://highlightly.net/soccer/images/teams/17883698.png",
+    "name": "Puerto Rico U17",
+    "type": "national"
+  },
+  {
+    "id": 17887953,
+    "logo": null,
+    "name": "Kyrgyz Republic",
+    "type": "national"
+  },
+  {
+    "id": 17889655,
+    "logo": null,
+    "name": "Sri Lanka Women",
+    "type": "national"
+  },
+  {
+    "id": 17890506,
+    "logo": null,
+    "name": "Timor-Leste Women",
+    "type": "national"
+  },
+  {
+    "id": 17891357,
+    "logo": null,
+    "name": "Turkmenistan Women",
+    "type": "national"
+  },
+  {
+    "id": 17914334,
+    "logo": null,
+    "name": "Benin Women",
+    "type": "national"
+  },
+  {
+    "id": 17919440,
+    "logo": "https://highlightly.net/soccer/images/teams/17919440.png",
+    "name": "Australia U20",
+    "type": "national"
+  },
+  {
+    "id": 17920291,
+    "logo": null,
+    "name": "Indonesia U20",
+    "type": "national"
+  },
+  {
+    "id": 17921142,
+    "logo": null,
+    "name": "Kyrgyz Republic U20",
+    "type": "national"
+  },
+  {
+    "id": 17921993,
+    "logo": "https://highlightly.net/soccer/images/teams/17921993.png",
+    "name": "Syria U20",
+    "type": "national"
+  },
+  {
+    "id": 17922844,
+    "logo": null,
+    "name": "Tajikistan U20",
+    "type": "national"
+  },
+  {
+    "id": 17923695,
+    "logo": "https://highlightly.net/soccer/images/teams/17923695.png",
+    "name": "Uzbekistan U20",
+    "type": "national"
+  },
+  {
+    "id": 18050494,
+    "logo": null,
+    "name": "Bolivia U17",
+    "type": "national"
+  },
+  {
+    "id": 18051345,
+    "logo": "https://highlightly.net/soccer/images/teams/18051345.png",
+    "name": "Peru U17",
+    "type": "national"
+  },
+  {
+    "id": 18052196,
+    "logo": "https://highlightly.net/soccer/images/teams/18052196.png",
+    "name": "Uruguay U17",
+    "type": "national"
+  },
+  {
+    "id": 18053047,
+    "logo": "https://highlightly.net/soccer/images/teams/18053047.png",
+    "name": "Venezuela U17",
+    "type": "national"
+  },
+  {
+    "id": 18055600,
+    "logo": null,
+    "name": "St. Lucia Women",
+    "type": "national"
+  },
+  {
+    "id": 18056451,
+    "logo": "https://highlightly.net/soccer/images/teams/18056451.png",
+    "name": "Bolivia U23",
+    "type": "national"
+  },
+  {
+    "id": 18057302,
+    "logo": null,
+    "name": "Mexico U21",
+    "type": "national"
+  },
+  {
+    "id": 18059855,
+    "logo": "https://highlightly.net/soccer/images/teams/18059855.png",
+    "name": "Cambodia U22",
+    "type": "national"
+  },
+  {
+    "id": 18060706,
+    "logo": "https://highlightly.net/soccer/images/teams/18060706.png",
+    "name": "Indonesia U22",
+    "type": "national"
+  },
+  {
+    "id": 18062408,
+    "logo": "https://highlightly.net/soccer/images/teams/18062408.png",
+    "name": "Malaysia U22",
+    "type": "national"
+  },
+  {
+    "id": 18063259,
+    "logo": null,
+    "name": "Myanmar U22",
+    "type": "national"
+  },
+  {
+    "id": 18064961,
+    "logo": null,
+    "name": "Thailand U22",
+    "type": "national"
+  },
+  {
+    "id": 18066663,
+    "logo": "https://highlightly.net/soccer/images/teams/18066663.png",
+    "name": "Vietnam U22",
+    "type": "national"
+  },
+  {
+    "id": 18093044,
+    "logo": null,
+    "name": "Israel U20",
+    "type": "national"
+  },
+  {
+    "id": 18093895,
+    "logo": null,
+    "name": "Slovakia U20",
+    "type": "national"
+  },
+  {
+    "id": 18104107,
+    "logo": "https://highlightly.net/soccer/images/teams/18104107.png",
+    "name": "Netherlands U19 Women",
+    "type": "national"
+  },
+  {
+    "id": 18122829,
+    "logo": "https://highlightly.net/soccer/images/teams/18122829.png",
+    "name": "Algeria U17",
+    "type": "national"
+  },
+  {
+    "id": 18123680,
+    "logo": "https://highlightly.net/soccer/images/teams/18123680.png",
+    "name": "Burkina Faso U17",
+    "type": "national"
+  },
+  {
+    "id": 18124531,
+    "logo": null,
+    "name": "Congo U17",
+    "type": "national"
+  },
+  {
+    "id": 18125382,
+    "logo": null,
+    "name": "Mali U17",
+    "type": "national"
+  },
+  {
+    "id": 18126233,
+    "logo": null,
+    "name": "Somalia U17",
+    "type": "national"
+  },
+  {
+    "id": 18127084,
+    "logo": null,
+    "name": "South Africa U17",
+    "type": "national"
+  },
+  {
+    "id": 18127935,
+    "logo": null,
+    "name": "Zambia U17",
+    "type": "national"
+  },
+  {
+    "id": 18128786,
+    "logo": "https://highlightly.net/soccer/images/teams/18128786.png",
+    "name": "Morocco U17",
+    "type": "national"
+  },
+  {
+    "id": 18129637,
+    "logo": null,
+    "name": "Alo Egypt",
+    "type": "national"
+  },
+  {
+    "id": 18163677,
+    "logo": null,
+    "name": "Korea DPR",
+    "type": "national"
+  },
+  {
+    "id": 18185803,
+    "logo": null,
+    "name": "Panama U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 18186654,
+    "logo": null,
+    "name": "Puerto Rico Women U20",
+    "type": "national"
+  },
+  {
+    "id": 18188356,
+    "logo": null,
+    "name": "Guam U23",
+    "type": "national"
+  },
+  {
+    "id": 18242820,
+    "logo": null,
+    "name": "Niger Women",
+    "type": "national"
+  },
+  {
+    "id": 18243671,
+    "logo": null,
+    "name": "Tanzania Women",
+    "type": "national"
+  },
+  {
+    "id": 18246224,
+    "logo": null,
+    "name": "IR Iran U17",
+    "type": "national"
+  },
+  {
+    "id": 18247075,
+    "logo": null,
+    "name": "Laos U17",
+    "type": "national"
+  },
+  {
+    "id": 18247926,
+    "logo": null,
+    "name": "Malaysia U17",
+    "type": "national"
+  },
+  {
+    "id": 18249628,
+    "logo": null,
+    "name": "Saudi Arabia U17",
+    "type": "national"
+  },
+  {
+    "id": 18250479,
+    "logo": null,
+    "name": "Thailand U17",
+    "type": "national"
+  },
+  {
+    "id": 18251330,
+    "logo": "https://highlightly.net/soccer/images/teams/18251330.png",
+    "name": "Uzbekistan U17",
+    "type": "national"
+  },
+  {
+    "id": 18252181,
+    "logo": null,
+    "name": "Vietnam U17",
+    "type": "national"
+  },
+  {
+    "id": 18253032,
+    "logo": null,
+    "name": "Yemen U17",
+    "type": "national"
+  },
+  {
+    "id": 18253883,
+    "logo": null,
+    "name": "China PR U17",
+    "type": "national"
+  },
+  {
+    "id": 18254734,
+    "logo": null,
+    "name": "India U17",
+    "type": "national"
+  },
+  {
+    "id": 18261542,
+    "logo": null,
+    "name": "Australia U18",
+    "type": "national"
+  },
+  {
+    "id": 18262393,
+    "logo": "https://highlightly.net/soccer/images/teams/18262393.png",
+    "name": "Austria U16",
+    "type": "national"
+  },
+  {
+    "id": 18263244,
+    "logo": "https://highlightly.net/soccer/images/teams/18263244.png",
+    "name": "Austria U18",
+    "type": "national"
+  },
+  {
+    "id": 18264946,
+    "logo": "https://highlightly.net/soccer/images/teams/18264946.png",
+    "name": "Bulgaria U16",
+    "type": "national"
+  },
+  {
+    "id": 18266648,
+    "logo": null,
+    "name": "China U22",
+    "type": "national"
+  },
+  {
+    "id": 18267499,
+    "logo": "https://highlightly.net/soccer/images/teams/18267499.png",
+    "name": "Czech Republic U18",
+    "type": "national"
+  },
+  {
+    "id": 18268350,
+    "logo": "https://highlightly.net/soccer/images/teams/18268350.png",
+    "name": "England U18",
+    "type": "national"
+  },
+  {
+    "id": 18269201,
+    "logo": "https://highlightly.net/soccer/images/teams/18269201.png",
+    "name": "Finland U18",
+    "type": "national"
+  },
+  {
+    "id": 18270052,
+    "logo": "https://highlightly.net/soccer/images/teams/18270052.png",
+    "name": "Japan U22",
+    "type": "national"
+  },
+  {
+    "id": 18270903,
+    "logo": "https://highlightly.net/soccer/images/teams/18270903.png",
+    "name": "Kuwait U23",
+    "type": "national"
+  },
+  {
+    "id": 18271754,
+    "logo": "https://highlightly.net/soccer/images/teams/18271754.png",
+    "name": "Kyrgyzstan U21",
+    "type": "national"
+  },
+  {
+    "id": 18272605,
+    "logo": null,
+    "name": "Latvia U18",
+    "type": "national"
+  },
+  {
+    "id": 18273456,
+    "logo": null,
+    "name": "North Macedonia U18",
+    "type": "national"
+  },
+  {
+    "id": 18274307,
+    "logo": null,
+    "name": "Norway U16",
+    "type": "national"
+  },
+  {
+    "id": 18275158,
+    "logo": "https://highlightly.net/soccer/images/teams/18275158.png",
+    "name": "Norway U18",
+    "type": "national"
+  },
+  {
+    "id": 18276009,
+    "logo": null,
+    "name": "Poland U16",
+    "type": "national"
+  },
+  {
+    "id": 18276860,
+    "logo": "https://highlightly.net/soccer/images/teams/18276860.png",
+    "name": "Poland U18",
+    "type": "national"
+  },
+  {
+    "id": 18277711,
+    "logo": "https://highlightly.net/soccer/images/teams/18277711.png",
+    "name": "Romania U18",
+    "type": "national"
+  },
+  {
+    "id": 18279413,
+    "logo": "https://highlightly.net/soccer/images/teams/18279413.png",
+    "name": "Slovakia U18",
+    "type": "national"
+  },
+  {
+    "id": 18280264,
+    "logo": null,
+    "name": "Slovenia U18",
+    "type": "national"
+  },
+  {
+    "id": 18299837,
+    "logo": "https://highlightly.net/soccer/images/teams/18299837.png",
+    "name": "Estonia U18",
+    "type": "national"
+  },
+  {
+    "id": 18300688,
+    "logo": null,
+    "name": "Lithuania U18",
+    "type": "national"
+  },
+  {
+    "id": 18732145,
+    "logo": null,
+    "name": "ADH Brasil",
+    "type": "national"
+  },
+  {
+    "id": 18875113,
+    "logo": null,
+    "name": "San Marino Academy",
+    "type": "national"
+  },
+  {
+    "id": 18939789,
+    "logo": null,
+    "name": "Italy U16",
+    "type": "national"
+  },
+  {
+    "id": 19001912,
+    "logo": null,
+    "name": "Eswatini Women",
+    "type": "national"
+  },
+  {
+    "id": 19012124,
+    "logo": null,
+    "name": "Croatia U18",
+    "type": "national"
+  },
+  {
+    "id": 19012975,
+    "logo": null,
+    "name": "Switzerland U18",
+    "type": "national"
+  },
+  {
+    "id": 19025740,
+    "logo": null,
+    "name": "ALSS Luxembourg",
+    "type": "national"
+  },
+  {
+    "id": 19042760,
+    "logo": null,
+    "name": "Kallon Liberia",
+    "type": "national"
+  },
+  {
+    "id": 19073396,
+    "logo": null,
+    "name": "Central African Republic",
+    "type": "national"
+  },
+  {
+    "id": 19084459,
+    "logo": null,
+    "name": "Belgium U18",
+    "type": "national"
+  },
+  {
+    "id": 19087012,
+    "logo": null,
+    "name": "Denmark U18",
+    "type": "national"
+  },
+  {
+    "id": 19087863,
+    "logo": null,
+    "name": "Denmark U20",
+    "type": "national"
+  },
+  {
+    "id": 19088714,
+    "logo": null,
+    "name": "Germany U16",
+    "type": "national"
+  },
+  {
+    "id": 19092969,
+    "logo": null,
+    "name": "Netherlands U18",
+    "type": "national"
+  },
+  {
+    "id": 19149986,
+    "logo": null,
+    "name": "Indonesia U17",
+    "type": "national"
+  },
+  {
+    "id": 19150837,
+    "logo": null,
+    "name": "New Caledonia U17",
+    "type": "national"
+  },
+  {
+    "id": 19190834,
+    "logo": null,
+    "name": "Malawi Women",
+    "type": "national"
+  },
+  {
+    "id": 19216364,
+    "logo": null,
+    "name": "Czech Republic U16",
+    "type": "national"
+  },
+  {
+    "id": 19322739,
+    "logo": null,
+    "name": "Chile U23",
+    "type": "national"
+  },
+  {
+    "id": 19330398,
+    "logo": null,
+    "name": "St. Vincent and the Grenadines Women",
+    "type": "national"
+  },
+  {
+    "id": 19331249,
+    "logo": null,
+    "name": "Chad Women",
+    "type": "national"
+  },
+  {
+    "id": 19332100,
+    "logo": null,
+    "name": "Congo DR Women",
+    "type": "national"
+  },
+  {
+    "id": 19334653,
+    "logo": null,
+    "name": "Sierra Leone Women",
+    "type": "national"
+  },
+  {
+    "id": 19338908,
+    "logo": null,
+    "name": "Japan U16",
+    "type": "national"
+  },
+  {
+    "id": 19348269,
+    "logo": null,
+    "name": "France Aizenay",
+    "type": "national"
+  },
+  {
+    "id": 19509108,
+    "logo": null,
+    "name": "Ecuador U23",
+    "type": "national"
+  },
+  {
+    "id": 19509959,
+    "logo": null,
+    "name": "Paraguay U23",
+    "type": "national"
+  },
+  {
+    "id": 19510810,
+    "logo": null,
+    "name": "Peru U23",
+    "type": "national"
+  },
+  {
+    "id": 19513363,
+    "logo": null,
+    "name": "Jordan U17",
+    "type": "national"
+  },
+  {
+    "id": 19514214,
+    "logo": null,
+    "name": "Tunisia U17",
+    "type": "national"
+  },
+  {
+    "id": 19617185,
+    "logo": null,
+    "name": "Iraq Women",
+    "type": "national"
+  },
+  {
+    "id": 19647821,
+    "logo": null,
+    "name": "Turks and Caicos Islands U20",
+    "type": "national"
+  },
+  {
+    "id": 19748239,
+    "logo": null,
+    "name": "Chinese Taipei U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 19749090,
+    "logo": null,
+    "name": "Korea DPR U20",
+    "type": "national"
+  },
+  {
+    "id": 19749941,
+    "logo": null,
+    "name": "Uzbekistan U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 19750792,
+    "logo": null,
+    "name": "Vietnam U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 19751643,
+    "logo": null,
+    "name": "China PR U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 19791640,
+    "logo": null,
+    "name": "Cyprus U18",
+    "type": "national"
+  },
+  {
+    "id": 19793342,
+    "logo": null,
+    "name": "Germany U18",
+    "type": "national"
+  },
+  {
+    "id": 19794193,
+    "logo": null,
+    "name": "Hungary U20",
+    "type": "national"
+  },
+  {
+    "id": 19795044,
+    "logo": null,
+    "name": "Iceland U20",
+    "type": "national"
+  },
+  {
+    "id": 19840147,
+    "logo": null,
+    "name": "Ukraine U23",
+    "type": "national"
+  },
+  {
+    "id": 19894611,
+    "logo": null,
+    "name": "Colombia U17 Women",
+    "type": "national"
+  },
+  {
+    "id": 19895462,
+    "logo": null,
+    "name": "Ecuador U17 Women",
+    "type": "national"
+  },
+  {
+    "id": 19897164,
+    "logo": null,
+    "name": "Uruguay U17 Women",
+    "type": "national"
+  },
+  {
+    "id": 19940565,
+    "logo": null,
+    "name": "Türkiye U20",
+    "type": "national"
+  },
+  {
+    "id": 19962691,
+    "logo": null,
+    "name": "Argentina U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 19966095,
+    "logo": null,
+    "name": "Peru U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 19967797,
+    "logo": null,
+    "name": "Venezuela U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 19968648,
+    "logo": null,
+    "name": "Paraguay U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 20031622,
+    "logo": null,
+    "name": "Egypt U21",
+    "type": "national"
+  },
+  {
+    "id": 20032473,
+    "logo": null,
+    "name": "Japan U21",
+    "type": "national"
+  },
+  {
+    "id": 20033324,
+    "logo": null,
+    "name": "Korea Republic U21",
+    "type": "national"
+  },
+  {
+    "id": 20034175,
+    "logo": null,
+    "name": "Panama U21",
+    "type": "national"
+  },
+  {
+    "id": 20100553,
+    "logo": null,
+    "name": "North Korea U17 Women",
+    "type": "national"
+  },
+  {
+    "id": 20102255,
+    "logo": null,
+    "name": "South Korea U17 Women",
+    "type": "national"
+  },
+  {
+    "id": 20103957,
+    "logo": null,
+    "name": "Belgium U17 Women",
+    "type": "national"
+  },
+  {
+    "id": 20104808,
+    "logo": null,
+    "name": "Portugal U17 Women",
+    "type": "national"
+  },
+  {
+    "id": 20105659,
+    "logo": null,
+    "name": "Norway U17 Women",
+    "type": "national"
+  },
+  {
+    "id": 20470738,
+    "logo": null,
+    "name": "Fiji U19",
+    "type": "national"
+  },
+  {
+    "id": 20471589,
+    "logo": null,
+    "name": "New Caledonia U19",
+    "type": "national"
+  },
+  {
+    "id": 20472440,
+    "logo": null,
+    "name": "New Zealand U19",
+    "type": "national"
+  },
+  {
+    "id": 20473291,
+    "logo": null,
+    "name": "Papua New Guinea U19",
+    "type": "national"
+  },
+  {
+    "id": 20474142,
+    "logo": null,
+    "name": "Samoa U19",
+    "type": "national"
+  },
+  {
+    "id": 20474993,
+    "logo": null,
+    "name": "Solomon Islands U19",
+    "type": "national"
+  },
+  {
+    "id": 20475844,
+    "logo": null,
+    "name": "Tahiti U19",
+    "type": "national"
+  },
+  {
+    "id": 20476695,
+    "logo": null,
+    "name": "Vanuatu U19",
+    "type": "national"
+  },
+  {
+    "id": 21031547,
+    "logo": null,
+    "name": "AS Luxembourg",
+    "type": "national"
+  },
+  {
+    "id": 21351523,
+    "logo": null,
+    "name": "Afghanistan U20",
+    "type": "national"
+  },
+  {
+    "id": 21359182,
+    "logo": null,
+    "name": "Kuwait U20",
+    "type": "national"
+  },
+  {
+    "id": 21364288,
+    "logo": null,
+    "name": "Myanmar U20",
+    "type": "national"
+  },
+  {
+    "id": 21371096,
+    "logo": null,
+    "name": "Turkmenistan U20",
+    "type": "national"
+  },
+  {
+    "id": 21371947,
+    "logo": null,
+    "name": "Korea DPR U20",
+    "type": "national"
+  },
+  {
+    "id": 21386414,
+    "logo": null,
+    "name": "St Joseph's",
+    "type": "national"
+  },
+  {
+    "id": 21468110,
+    "logo": null,
+    "name": "Brazil U17 Women",
+    "type": "national"
+  },
+  {
+    "id": 21468961,
+    "logo": null,
+    "name": "England U17 Women",
+    "type": "national"
+  },
+  {
+    "id": 21469812,
+    "logo": null,
+    "name": "Japan U17 Women",
+    "type": "national"
+  },
+  {
+    "id": 21471514,
+    "logo": null,
+    "name": "New Zealand U17",
+    "type": "national"
+  },
+  {
+    "id": 21472365,
+    "logo": null,
+    "name": "Nigeria U17 Women",
+    "type": "national"
+  },
+  {
+    "id": 21473216,
+    "logo": null,
+    "name": "Poland U17 Women",
+    "type": "national"
+  },
+  {
+    "id": 21474067,
+    "logo": null,
+    "name": "Spain U17 Women",
+    "type": "national"
+  },
+  {
+    "id": 21513213,
+    "logo": null,
+    "name": "Oman U17",
+    "type": "national"
+  },
+  {
+    "id": 21525978,
+    "logo": null,
+    "name": "Bahrain U17",
+    "type": "national"
+  },
+  {
+    "id": 21531935,
+    "logo": null,
+    "name": "Iraq U17",
+    "type": "national"
+  },
+  {
+    "id": 21532786,
+    "logo": null,
+    "name": "Korea DPR U17",
+    "type": "national"
+  },
+  {
+    "id": 21533637,
+    "logo": null,
+    "name": "Kuwait U17",
+    "type": "national"
+  },
+  {
+    "id": 21543849,
+    "logo": null,
+    "name": "Syria U17",
+    "type": "national"
+  },
+  {
+    "id": 21545551,
+    "logo": null,
+    "name": "UAE U17",
+    "type": "national"
+  },
+  {
+    "id": 21732771,
+    "logo": null,
+    "name": "Antigua and Barbuda U17",
+    "type": "national"
+  },
+  {
+    "id": 21736175,
+    "logo": null,
+    "name": "Dominica U17",
+    "type": "national"
+  },
+  {
+    "id": 21737026,
+    "logo": null,
+    "name": "Grenada U17",
+    "type": "national"
+  },
+  {
+    "id": 21737877,
+    "logo": null,
+    "name": "Guyana U17",
+    "type": "national"
+  },
+  {
+    "id": 21738728,
+    "logo": null,
+    "name": "Saint Martin U17",
+    "type": "national"
+  },
+  {
+    "id": 21740430,
+    "logo": null,
+    "name": "St. Kitts and Nevis U17",
+    "type": "national"
+  },
+  {
+    "id": 21741281,
+    "logo": null,
+    "name": "St. Lucia U17",
+    "type": "national"
+  },
+  {
+    "id": 21742132,
+    "logo": null,
+    "name": "Anguilla U17",
+    "type": "national"
+  },
+  {
+    "id": 21742983,
+    "logo": null,
+    "name": "Belize U17",
+    "type": "national"
+  },
+  {
+    "id": 21743834,
+    "logo": null,
+    "name": "Cayman Islands U17",
+    "type": "national"
+  },
+  {
+    "id": 21744685,
+    "logo": null,
+    "name": "Mexico U17",
+    "type": "national"
+  },
+  {
+    "id": 21747238,
+    "logo": null,
+    "name": "US Virgin Islands U17",
+    "type": "national"
+  },
+  {
+    "id": 21782980,
+    "logo": null,
+    "name": "Djibouti Women",
+    "type": "national"
+  },
+  {
+    "id": 21915736,
+    "logo": null,
+    "name": "Plantech Kenya",
+    "type": "national"
+  },
+  {
+    "id": 21971902,
+    "logo": null,
+    "name": "Côte d'Ivoire U17",
+    "type": "national"
+  },
+  {
+    "id": 21972753,
+    "logo": null,
+    "name": "Egypt U17",
+    "type": "national"
+  },
+  {
+    "id": 21973604,
+    "logo": null,
+    "name": "Gambia U17",
+    "type": "national"
+  },
+  {
+    "id": 21974455,
+    "logo": null,
+    "name": "Uganda U17",
+    "type": "national"
+  },
+  {
+    "id": 21975306,
+    "logo": null,
+    "name": "Tanzania Under-17",
+    "type": "national"
+  },
+  {
+    "id": 21976157,
+    "logo": null,
+    "name": "AS Penarol",
+    "type": "national"
+  },
+  {
+    "id": 22045088,
+    "logo": null,
+    "name": "Austria U17 Women",
+    "type": "national"
+  },
+  {
+    "id": 22045939,
+    "logo": null,
+    "name": "Faroe Islands U17 Women",
+    "type": "national"
+  },
+  {
+    "id": 22046790,
+    "logo": null,
+    "name": "Italy U17 Women",
+    "type": "national"
+  },
+  {
+    "id": 22047641,
+    "logo": null,
+    "name": "Netherlands U17 Women",
+    "type": "national"
+  },
+  {
+    "id": 22048492,
+    "logo": null,
+    "name": "Guyana U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 22049343,
+    "logo": null,
+    "name": "Nicaragua U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 22150612,
+    "logo": null,
+    "name": "Poland U19 Women",
+    "type": "national"
+  },
+  {
+    "id": 22151463,
+    "logo": null,
+    "name": "Portugal U19 Women",
+    "type": "national"
+  },
+  {
+    "id": 22165930,
+    "logo": null,
+    "name": "Cambodia Women",
+    "type": "national"
+  },
+  {
+    "id": 22170185,
+    "logo": null,
+    "name": "Catalonia",
+    "type": "national"
+  },
+  {
+    "id": 22171036,
+    "logo": null,
+    "name": "Manga Canada",
+    "type": "national"
+  },
+  {
+    "id": 22171887,
+    "logo": null,
+    "name": "France U17 Women",
+    "type": "national"
+  },
+  {
+    "id": 22194013,
+    "logo": null,
+    "name": "Bhutan U23",
+    "type": "national"
+  },
+  {
+    "id": 22199119,
+    "logo": null,
+    "name": "New Caledonia U20",
+    "type": "national"
+  },
+  {
+    "id": 22199970,
+    "logo": null,
+    "name": "Spain U20",
+    "type": "national"
+  },
+  {
+    "id": 22354852,
+    "logo": null,
+    "name": "Guam U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 22355703,
+    "logo": null,
+    "name": "India U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 22356554,
+    "logo": null,
+    "name": "Kyrgyzstan Women",
+    "type": "national"
+  },
+  {
+    "id": 22362511,
+    "logo": null,
+    "name": "Bahrain U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 22363362,
+    "logo": null,
+    "name": "Bangladesh U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 22364213,
+    "logo": null,
+    "name": "Bhutan U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 22365064,
+    "logo": null,
+    "name": "Cambodia U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 22365915,
+    "logo": null,
+    "name": "Hong Kong U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 22366766,
+    "logo": null,
+    "name": "Indonesia U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 22367617,
+    "logo": null,
+    "name": "Iran U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 22368468,
+    "logo": null,
+    "name": "Jordan U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 22369319,
+    "logo": null,
+    "name": "Laos U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 22370170,
+    "logo": null,
+    "name": "Lebanon U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 22371021,
+    "logo": null,
+    "name": "Malaysia U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 22372723,
+    "logo": null,
+    "name": "Myanmar U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 22373574,
+    "logo": null,
+    "name": "Nepal U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 22374425,
+    "logo": null,
+    "name": "Palestine U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 22375276,
+    "logo": null,
+    "name": "Saudi Arabia U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 22376127,
+    "logo": null,
+    "name": "Syria Women U20",
+    "type": "national"
+  },
+  {
+    "id": 22376978,
+    "logo": null,
+    "name": "Tajikistan U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 22377829,
+    "logo": null,
+    "name": "Timor-Leste U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 22378680,
+    "logo": null,
+    "name": "Turkmenistan U20 Women",
+    "type": "national"
+  },
+  {
+    "id": 22674828,
+    "logo": null,
+    "name": "Canada U17",
+    "type": "national"
+  }
+]
